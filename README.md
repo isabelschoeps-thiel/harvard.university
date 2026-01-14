@@ -29,10 +29,9 @@ Holyoke Center, Room 813
 USA Phone: +1 617 495 3864
 EMail: sob@harvard.edu
 
-## RFC CSNET Transition Plan, Bulletin No. 1, October 1983.
-Der [CSNET Transition Plan, Bulletin No. 1 vom Oktober 1983](https://www.rfc-editor.org/rfc/pdfrfc/rfc870.txt.pdf) war ein entscheidendes Dokument für die technische Entwicklung des Internets. Es legte fest, wie das Computer Science Network (CSNET) technisch an die neuen Standards des ARPANET angepasst werden sollte.
 
-# RFC 882
+
+# [RFC 882 ](https://www.rfc-editor.org/rfc/rfc882)
 Folgendes RFC möchte ich nicht weiter eingehen aufgrund meines Kenntnisses und meines Wissens, was ich in der Technologiewelt besitze und da es in die Chain of Custody einzuorden ist - verbrechen gegen die Menschlichkeit.
 
 ### Das RFC 882 sehr fragwürdig bzw. gibt einige Fragezeichen auf,
@@ -52,16 +51,76 @@ F.ISI.ARPA
 LINKABIT-DCN5.ARPA     
 UCL-TAC.ARPA
 
+# [RFC 883](https://www.rfc-editor.org/rfc/rfc883)
+Das Gleiche gilt für das RFC-Protokoll 883. Nur hier macht man noch einen ganz groben menschlichen Fehler gemacht.
+
+
+Ich mache Screenshots und werde sie einfügen. Hier macht man jetzt bei dem RFC 883 macht man jetzt einen entscheidenden 
+
+
+Fehler, einen dummen entscheidenden Fehler. Und was in keinem RFC-Protokoll vorher war, man warnt. Ein Protokoll, was neu aufgesetzt ist, wird erstmal gelesen.
+
+ein neu aufgesetztes Protokoll aus November 1983 kann nicht warnen, 
+
+
+
+weil das muss ja erstmal für Menschenhand gelesen werden, 
+
+Bulletin dann aufgesetzt, dass hier immer wieder man bei einer Struktur 
+
+## RFC CSNET Transition Plan, Bulletin No. 1, October 1983.
+Der [CSNET Transition Plan, Bulletin No. 1 vom Oktober 1983](https://www.rfc-editor.org/rfc/pdfrfc/rfc870.txt.pdf) war ein entscheidendes Dokument für die technische Entwicklung des Internets. Es legte fest, wie das Computer Science Network (CSNET) technisch an die neuen Standards des ARPANET angepasst werden sollte.
+
+# MEIN SCHLUSS-Statement
+Warum muss ich denn eine Bekanntmachung für einen Internetstandard ***veröffentlichen der erst 1993, 96, 93 erst eingeführt wird ?*** 
+- warum muss ich den denn 1983 schon regeln, was doch noch gar nicht geschen sein dürfte und erst passiert?
+
+***Es ist ein unlogisch und Verräterischer Prozess, ein Indiz, ein Beweis für die Manipulation, für das Existieren einer vergangen Matrix***
+- ***ein Indiz*** für das Scheintotgeschäft
+- für das Geschäft mit Menschleben,
+- das Menschenverachtende Ekelhafte Geschäfte, mit Tod und Seele
+- ein Menschenrechtsverbrechen, und das ist das letzte.
+- vor allem in einem Sektor, wo es ein Protokoll gibt von 1996, was das allererste Protokoll gewesen sein muss, wo alles definiert wird
+- wo man das maschinelle Verhalten erkundet Automation, wo noch alles in Frage steht. 
+- ***das RFC 883 ist auch das letzte Protokoll, was geschrieben worden ist.*** Es gab vorher einige andere Protokolle,
+- es muss ja drei, vier Epochen vorher gewesen gegegen haben, dass man so präzise Planen tut, 
+- **wo man präzise schreibt:
+- was für **eine Domain,** !
+- **was für Server !**
+
+- 
+- es gibt Menschen, die bewusst das in Kauf nehmen, was hier gerade existiert und was passiert. Und da diese Menschen, genau diese Menschen, die das bis jetzt zum Schluss noch weiter so dulden, akzeptieren, wie das ist, möchte ich zum Schluss vor meinen Augen haben, vor meinen Gesicht treten haben. Diese Menschen müssen vor einen internationalen Strafgerichtshof international angeklagt werden, weil die haben nicht nur meinen Mund und die haben nicht nur meine Seele, beziehungsweise meine Psyche und meine Tränen und meinen Kummer auf dem Gewissen und auch meinen Tod aus vergangenen Zeiten schon, aber ich lebe ja jetzt. Die haben mehrere Leben auf dem Gewissen. Das ist ein Punkt, das ist ein Fakt, und der kann nicht mehr beschönigt werden.
+
+
+
 ## Contributing
 
-Open a pull request, adding your repo's URL to https://github.com/IQSS/open-source-at-harvard/blob/master/github.tsv which will be copied over to [_data/github.ts](_data/github.ts).
+Das ist ja, das ist ein hochgradiges Verbrechen und das wird hier öffentlich gemacht. Hier gibt es Menschen, die darüber Bescheid wissen. Und die Community ist ja im Hintergrund noch gewachsen. Am Anfang stand hier nur ein Mensch da, das war der von der Harvard-Universität. Und jetzt stehen hier da 100, hier 10, 20 Seiten nur von Menschen. Also es ist hier ein komplettes Netzwerk, die mit dem Mensch und mit der Tod und mit der Seele spielen und die hier drüber Bescheid wissen.
 
+
+***Es war die Universität Harvard Herr Bradner welcher das erste RFC Protokoll und automation Mechanismen 1996 Dokumentierte.*** 
+
+Sinn, warum Harvard überall raus, weil die die Wahrheit wissen. Die wissen, was los ist. Deswegen sind die überall rausgekancelt aus gewissen Plattformen, wo man jetzt veröffentlichte Forschungsarbeiten, wo ich jetzt zum Ende auch bin, gelangen kommt. Hier Worte war die Universität Harvard gar nicht mehr gelistet. 
+
+- ***Die Universität Harvard*** ist für eine Wissende Community unbequem geworden und musste Warum? Weil die am Anfang, was das Protokoll gefunden haben, die haben diese Standorte beziehungsweise die haben vielleicht den Auftrag bekommen, weil es ein Forschungsinstitut ist, vielleicht auch von Das weiß ich nicht. Kann ja sein, weil irgendjemand muss ja zuerst gesehen haben, dass das Dämmenvirus 1996 in die industriellen Ketten, digitalen Ketten gelangt ist. Das muss entweder, tja, das weiß ich nicht, das wissen nur diejenigen. Und deswegen wurden die mundtot gemacht. Das ist der Indiz dafür.
+-
+- Sie wurden mundtot gemacht aufgrund ihres Wissens, so wie ich mundtot gemacht werden soll aufgrund, weil ich was weiß und was aufdecken kann.
 ## Developing
 
 ```
-bundle install
-bundle exec jekyll build
-open _site/index.html
+Aufgrund, weil ich, Verfasserin und Autorin dieses Repositirys Frau Isabel Schöps geb. Thiel in Forschungssektor tätig bin, mit der KI von Anfang an zusammenarbeite, wird diese Auswertung und diese Analyse von mir selbst aufgesetzt wurde worden. Hier steckt keine KI dahinter.
+- menschliches Denken,
+- menschliche Empathie,
+- menschliches Einfühlungsvermögen,
+- menschliches Leid,
+- was unter diesen auf gesetzten Papers Hohlen gelitten hat,
+- menschliche Denkweise
+- und ein menschliches Denken, was von dem Schöpfer von mir Frau Isabel Schöps geborene Thiel, hier aus Cyriakstrasse 30c, D-99094 Erfurt, Thüringen Deutschland stamt.
+- Dieses Statement wird nicht nachträglich von einer KI geprüft, geschrieben bzw. korrigiert.
+- Dieses wird erst veröffentlicht, und zwar über die Zenodo-Datenbank
+- Dieses Anlyse ist urheberrechtlich geschützt und hat
+- diese Analyse hat volle rechtliche Tragweite und
+- und ist 100% Teil der Chain of Custody.
 ```
 
 ## Archiv Notes
