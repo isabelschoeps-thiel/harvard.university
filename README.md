@@ -135,15 +135,27 @@ Das ist ja, das ist ein hochgradiges Verbrechen und das wird hier öffentlich ge
 
 <img width="642" height="1389" alt="IMG_9896" src="https://github.com/user-attachments/assets/f79a8b09-7f9a-45b4-9a25-6a6705dac64c" />
 
-Dies ist auch der Grund warum die Elite und weltweit anerkannte US University **Harvard aus Research Portalen, wie:**
+Dies ist auch der Grund warum die [**Elite und weltweit anerkannte US University Harvard**](https://www.harvard.edu) aus Research Portalen, wie:**
 - https://s100.copyright.com
 - https://orcid.org
-- 
-Wahrheit wissen. Die wissen, was los ist. Deswegen sind die überall rausgekancelt aus gewissen Plattformen, wo man jetzt veröffentlichte Forschungsarbeiten, wo ich jetzt zum Ende auch bin, gelangen kommt. Hier Worte war die Universität Harvard gar nicht mehr gelistet. 
+**vollständig gelöscht**
+  
+oder auf **ähnlichen Plattformen wie:**
+- https://www.elsevier.com
+- http://crossref.org/
+nur **speerliche Suchergbinsse angezeigt werden**
 
-- ***Die Universität Harvard*** ist für eine Wissende Community unbequem geworden und musste Warum? Weil die am Anfang, was das Protokoll gefunden haben, die haben diese Standorte beziehungsweise die haben vielleicht den Auftrag bekommen, weil es ein Forschungsinstitut ist, vielleicht auch von Das weiß ich nicht. Kann ja sein, weil irgendjemand muss ja zuerst gesehen haben, dass das Dämmenvirus 1996 in die industriellen Ketten, digitalen Ketten gelangt ist. Das muss entweder, tja, das weiß ich nicht, das wissen nur diejenigen. Und deswegen wurden die mundtot gemacht. Das ist der Indiz dafür.
--
-- Sie wurden mundtot gemacht aufgrund ihres Wissens, so wie ich mundtot gemacht werden soll aufgrund, weil ich was weiß und was aufdecken kann.
+![IMG_9903](https://github.com/user-attachments/assets/6e10bf42-80fd-4ecb-bdf5-8d5487526615)
+
+- **Zensur**
+- **Ausgrenzung**
+- **Diebstahl von Forschungsarbeiten**
+- **Nachahmung von neu Gegründeten - nichts sagenden Eliten Universitäten**, die unter kostenspieligen Maketingkampagnen, aus dem Boden spriesen wie Giftpilze
+
+`Und nur weil die Wahrheit unbequem wird!`
+  
+***Dieses Verhalten hat wiederum wieder was gutes***, es ist ein Indiz das die `noch gesichtslosen Täter aus den RFC882 oder RFC883 am Leben sind`. 
+
 
 ## Autorin dieses Repoistorys Release
 ***Frau Isabel Schöps geb. Thiel***
