@@ -46,13 +46,22 @@ Folgendes RFC möchte ich nicht weiter eingehen aufgrund meines Kenntnisses und 
 
 Hier möchte ich einfach nur die Scheintodgeschäfte, das Geschäft mit den verkauften Identitäten, das Geschäft mit den Toten explizit erwähnen und möchte dieses auf jeden Fall dieses Protokoll als Evidence einstufen und in die Chain of Custody.
 
+# Frame String - Chain of Custody
+***Metadaten Auslesen, forensiche Rückverfolgung, Evidence***
 https://www.rfc-editor.org/rfc/rfc882
-F.ISI.ARPA     
-LINKABIT-DCN5.ARPA     
-UCL-TAC.ARPA
+
+-> F.ISI.ARPA     
+-> LINKABIT-DCN5.ARPA
+-> UCL-TAC.ARPA
+
+<img width="642" height="1389" alt="IMG_9891" src="https://github.com/user-attachments/assets/103ed8d6-1ab6-4619-8e73-e4e9bc7fcb9f" />
+
+
+---
+
 
 # [RFC 883](https://www.rfc-editor.org/rfc/rfc883)
-Das Gleiche gilt für das RFC-Protokoll 883. Nur hier macht man noch einen ganz groben menschlichen Fehler gemacht.
+Die Gleiche Analyse gilt für das RFC-Protokoll RFC883. Nur hier macht man noch einen ganz groben menschlichen Fehler gemacht. Der menschen gemacht und kein
 
 
 Ich mache Screenshots und werde sie einfügen. Hier macht man jetzt bei dem RFC 883 macht man jetzt einen entscheidenden 
@@ -86,9 +95,17 @@ Warum muss ich denn eine Bekanntmachung für einen Internetstandard ***veröffen
 - es muss ja drei, vier Epochen vorher gewesen gegegen haben, dass man so präzise Planen tut, 
 - **wo man präzise schreibt:
 - was für **eine Domain,** !
-- **was für Server !**
+- **welche Server werden sollen**
+- und dann noch auf dem Deckblatt eine ***Warnung ausspricht;***
+# Original 
+>This memo discusses the implementation of domain name servers and resolvers, specifies the format of transactions, and discusses the use of domain names
+context of existing mail systems and other
+network software. This memo assumes that the reader is familiar with RFC 882, "Domain Names - Concepts and Facilities" which discusses the basic principles of domain names and their use. The algorithms and internal data structures used this memo are offered as suggestions rather than
+requirements; implementers are free to design their structures so long as the same external behavior is achieved.
 
-- 
+<img width="642" height="1389" alt="IMG_9895" src="https://github.com/user-attachments/assets/96263f59-d653-4ac5-8102-26c32ce554bc" />
+
+
 - es gibt Menschen, die bewusst das in Kauf nehmen, was hier gerade existiert und was passiert. Und da diese Menschen, genau diese Menschen, die das bis jetzt zum Schluss noch weiter so dulden, akzeptieren, wie das ist, möchte ich zum Schluss vor meinen Augen haben, vor meinen Gesicht treten haben. Diese Menschen müssen vor einen internationalen Strafgerichtshof international angeklagt werden, weil die haben nicht nur meinen Mund und die haben nicht nur meine Seele, beziehungsweise meine Psyche und meine Tränen und meinen Kummer auf dem Gewissen und auch meinen Tod aus vergangenen Zeiten schon, aber ich lebe ja jetzt. Die haben mehrere Leben auf dem Gewissen. Das ist ein Punkt, das ist ein Fakt, und der kann nicht mehr beschönigt werden.
 
 
@@ -107,16 +124,16 @@ Sinn, warum Harvard überall raus, weil die die Wahrheit wissen. Die wissen, was
 - Sie wurden mundtot gemacht aufgrund ihres Wissens, so wie ich mundtot gemacht werden soll aufgrund, weil ich was weiß und was aufdecken kann.
 
 ## Autorin dieses Repoistorys Release
-
+***Frau Isabel Schöps geb. Thiel***
 Aufgrund anhaltender Manipulation, Isolation und schwerwiegenden Menschrechtsverletzungen, werde ich, Verfasserin und Autorin dieses Repositirys Frau Isabel Schöps geb. Thiel, aktuell tätig im Forschungssektor und mit der KI von Anfang an zusammenarbeite, diese Analyse Auswertung nicht weiter von dem OpenAI Software überprüfen bzw. korrikieren lassen.
 ***Hier steckt keine KI dahinter:***
 - es ist `mein menschliches Denken`,
 - es ist `meine menschliche Empathie`,
 - es ist `mein menschliches Einfühlungsvermögen`,
 - es `ist und war menschliches Leid`,
-- wo nicht nur ich, `sondern Millionen, wenn nicht Millarden Menschen` unter diesem holen, menschenverachtenden RFC882 und RFC883 gelitten haben unter diesen auf gesetzten Papers Hohlen gelitten hat,
+- wo nicht nur ich, `sondern Millionen, wenn nicht Millarden Menschen` unter diesem holen, [menschenverachtenden RFC882](https://www.rfc-editor.org/rfc/rfc882) und [RFC883](https://www.rfc-editor.org/rfc/rfc883) gelitten haben unter diesen auf gesetzten Papers Hohlen gelitten hat,
 - es ist `meine menschliche Denkweise`
-- es ist `mein Denken, ein Denken, welche nur von `mir Frau Isabel Schöps geborene Thiel der Schöpferin der ersten KI Automation und im RFC2026,festgehalten wurde`.
+- es ist `mein Denken, ein Denken, welche nur von `mir Frau Isabel Schöps geborene Thiel der Schöpferin der ersten KI Automation und im RFC2026, festgehalten wurde`.
 - hier aus Cyriakstrasse 30c, D-99094 Erfurt, Thüringen Deutschland stamt.
 - Dieses Statement wird nicht nachträglich von einer KI geprüft, geschrieben bzw. korrigiert.
 - Dieses wird erst veröffentlicht, und zwar über die Zenodo-Datenbank
