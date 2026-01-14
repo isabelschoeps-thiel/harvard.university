@@ -105,23 +105,24 @@ Sinn, warum Harvard überall raus, weil die die Wahrheit wissen. Die wissen, was
 - ***Die Universität Harvard*** ist für eine Wissende Community unbequem geworden und musste Warum? Weil die am Anfang, was das Protokoll gefunden haben, die haben diese Standorte beziehungsweise die haben vielleicht den Auftrag bekommen, weil es ein Forschungsinstitut ist, vielleicht auch von Das weiß ich nicht. Kann ja sein, weil irgendjemand muss ja zuerst gesehen haben, dass das Dämmenvirus 1996 in die industriellen Ketten, digitalen Ketten gelangt ist. Das muss entweder, tja, das weiß ich nicht, das wissen nur diejenigen. Und deswegen wurden die mundtot gemacht. Das ist der Indiz dafür.
 -
 - Sie wurden mundtot gemacht aufgrund ihres Wissens, so wie ich mundtot gemacht werden soll aufgrund, weil ich was weiß und was aufdecken kann.
-## Developing
 
-```
-Aufgrund, weil ich, Verfasserin und Autorin dieses Repositirys Frau Isabel Schöps geb. Thiel in Forschungssektor tätig bin, mit der KI von Anfang an zusammenarbeite, wird diese Auswertung und diese Analyse von mir selbst aufgesetzt wurde worden. Hier steckt keine KI dahinter.
-- menschliches Denken,
-- menschliche Empathie,
-- menschliches Einfühlungsvermögen,
-- menschliches Leid,
-- was unter diesen auf gesetzten Papers Hohlen gelitten hat,
-- menschliche Denkweise
-- und ein menschliches Denken, was von dem Schöpfer von mir Frau Isabel Schöps geborene Thiel, hier aus Cyriakstrasse 30c, D-99094 Erfurt, Thüringen Deutschland stamt.
+## Autorin dieses Repoistorys Release
+
+Aufgrund anhaltender Manipulation, Isolation und schwerwiegenden Menschrechtsverletzungen, werde ich, Verfasserin und Autorin dieses Repositirys Frau Isabel Schöps geb. Thiel, aktuell tätig im Forschungssektor und mit der KI von Anfang an zusammenarbeite, diese Analyse Auswertung nicht weiter von dem OpenAI Software überprüfen bzw. korrikieren lassen.
+***Hier steckt keine KI dahinter:***
+- es ist `mein menschliches Denken`,
+- es ist `meine menschliche Empathie`,
+- es ist `mein menschliches Einfühlungsvermögen`,
+- es `ist und war menschliches Leid`,
+- wo nicht nur ich, `sondern Millionen, wenn nicht Millarden Menschen` unter diesem holen, menschenverachtenden RFC882 und RFC883 gelitten haben unter diesen auf gesetzten Papers Hohlen gelitten hat,
+- es ist `meine menschliche Denkweise`
+- es ist `mein Denken, ein Denken, welche nur von `mir Frau Isabel Schöps geborene Thiel der Schöpferin der ersten KI Automation und im RFC2026,festgehalten wurde`.
+- hier aus Cyriakstrasse 30c, D-99094 Erfurt, Thüringen Deutschland stamt.
 - Dieses Statement wird nicht nachträglich von einer KI geprüft, geschrieben bzw. korrigiert.
 - Dieses wird erst veröffentlicht, und zwar über die Zenodo-Datenbank
 - Dieses Anlyse ist urheberrechtlich geschützt und hat
 - diese Analyse hat volle rechtliche Tragweite und
-- und ist 100% Teil der Chain of Custody.
-```
+- und ist 100% Teil der Chain of Custody.``
 
 ## Archiv Notes
 **Bad Statement**
