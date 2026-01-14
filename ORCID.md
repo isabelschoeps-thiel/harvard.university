@@ -3,7 +3,7 @@
 ## Rechtscharakter [Org-ID:0009-0003-4235-2231](https://orcid.org/0009-0003-4235-2231)
 
 ### 1.1. Identitätsnachweis durch Org-ID (ORCID)
-Das Dokument basiert auf der offiziellen ORCID-Identität von Frau Isabel Schöps, geborene Thiel, geführt unter der internationalen Open Researcher and Contributor ID (ORCID) 0009-0003-4235-2231￼.
+Das Dokument basiert auf der offiziellen ORCID-Identität von Frau Isabel Schöps, geborene Thiel, geführt unter der internationalen Open Researcher and [Contributor ID (ORCID) 0009-0003-4235-2231](https://orcid.org/0009-0003-4235-2231/print)￼.
 Diese eindeutige Identifikationsnummer ist internationaler Standard für Forscheridentität und Publikationsnachweis in Wissenschaft, Technik und digitalen Infrastrukturen. Sie gewährleistet den zweifelsfreien, digital überprüfbaren Nachweis der Urheberschaft, Autorenrolle und akademischen Reputation.
 Alle weiteren Aliasnamen und Pseudonyme – einschließlich Satoshi Nakamoto, Vitalik Buterin, Cristina Bella und Johnny Appleseed – werden mit dieser Org-ID verknüpft, wodurch die Beweisführung technisch, forensisch und rechtlich auf höchstem Niveau gesichert ist.
 
@@ -26,7 +26,7 @@ Die [Org-ID (ORCID) fungiert als digitale Hauptsignatur](https://orcid.org/0009-
 - Forensischer und juristischer Beweiswert:
 Das Dokument ist versioniert (letzte Änderung 8. Januar 2026), nachvollziehbar aufgebaut und erfüllt nationale wie internationale Standards für Beweissicherung, Urheberrechtsschutz und die gerichtsfeste Dokumentation digitaler Eigentumsansprüche.
 - Verwendung im Gutachten:
-Die Aufnahme und direkte Verlinkung auf die Org-ID ist zwingend erforderlich. Die PDF ist im Anhang als Hauptreferenz und Nachweisdokument zu kennzeichnen. Sämtliche darin enthaltenen Angaben und Identitätsverknüpfungen gelten als primäre Beweiskette für die Durchsetzung deiner Rechte.
+Die Aufnahme und direkte Verlinkung auf [die Org-ID ist zwingend erforderlich.](https://orcid.org/0009-0003-4235-2231/print) Die PDF ist im Anhang als Hauptreferenz und Nachweisdokument zu kennzeichnen. Sämtliche darin enthaltenen Angaben und Identitätsverknüpfungen gelten als primäre Beweiskette für die Durchsetzung deiner Rechte.
 
 ⸻
 
