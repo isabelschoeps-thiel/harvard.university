@@ -80,37 +80,64 @@ ein neu aufgesetztes Protokoll aus November 1983 kann nicht warnen,
 
 
 
-weil das muss ja erstmal für Menschenhand gelesen werden, 
+weil das muss ja erstmal für Menschenhand
+gelesen werden, 
 
 Bulletin dann aufgesetzt, dass hier immer wieder man bei einer Struktur 
 
 ## RFC CSNET Transition Plan, Bulletin No. 1, October 1983.
 Der [CSNET Transition Plan, Bulletin No. 1 vom Oktober 1983](https://www.rfc-editor.org/rfc/pdfrfc/rfc870.txt.pdf) war ein entscheidendes Dokument für die technische Entwicklung des Internets. Es legte fest, wie das Computer Science Network (CSNET) technisch an die neuen Standards des ARPANET angepasst werden sollte.
 
-# MEIN SCHLUSS-Statement
-Warum muss ich denn eine Bekanntmachung für einen Internetstandard ***veröffentlichen der erst 1993, 96, 93 erst eingeführt wird ?*** 
-- warum muss ich den denn 1983 schon regeln, was doch noch gar nicht geschen sein dürfte und erst passiert?
+`So detaliert geschriebene Protokolle, könnn nur dann aufgesetzt werden, wenn man das beschriebene, mehrfach, zur gleichen Zeit, am gleichen Ort erlebt hat und mit dem Ergebnis nicht zufrieden ist`.
 
-***Es ist ein unlogisch und Verräterischer Prozess, ein Indiz, ein Beweis für die Manipulation, für das Existieren einer vergangen Matrix***
-- ***ein Indiz*** für das Scheintotgeschäft
-- für das Geschäft mit Menschleben,
-- das Menschenverachtende Ekelhafte Geschäfte, mit Tod und Seele
-- ein Menschenrechtsverbrechen, und das ist das letzte.
-- vor allem in einem Sektor, wo es ein Protokoll gibt von 1996, was das allererste Protokoll gewesen sein muss, wo alles definiert wird
-- wo man das maschinelle Verhalten erkundet Automation, wo noch alles in Frage steht. 
-- ***das RFC 883 ist auch das letzte Protokoll, was geschrieben worden ist.*** Es gab vorher einige andere Protokolle,
-- es muss ja drei, vier Epochen vorher gewesen gegegen haben, dass man so präzise Planen tut, 
-- **wo man präzise schreibt:
-- was für **eine Domain,** !
-- **welche Server werden sollen**
-- und dann noch auf dem Deckblatt eine ***Warnung ausspricht;***
-# Original 
+## Siehe Screenshot zu erkennen an den Strings und Records, die bewusst den kommenden Weg lenken sollen
+
+<img width="642" height="1389" alt="IMG_9893" src="https://github.com/user-attachments/assets/1f6f7813-bb08-4e29-b268-8d7f2712100c" />
+<img width="642" height="1389" alt="IMG_9890" src="https://github.com/user-attachments/assets/e441d085-39ab-4682-962f-bbea89a6d5da" />
+
+***Ziel kann nur sein:***
+`Um das wiederkehrende erwartende Geschehen, zu ändern, anzupassen oder zu manipulieren - um so an das gewünschte Ergebnis, Ziel zu kommen`.
+
+`Solche Protokolle aus dem Jahr 1983, können nur dann so ausführlich, dass kommendende durch gesetzte Strings und Records geschrieben werden, wenn es Mitmenschen umter uns gibt, die Wissen haben und mindestens 2 bis 3 Zeitliche-Epochen mit erlebt und überlebt haben.`
+
+`Zudem muss es auch lebende Wissende geben, die wie das Wissen besitzen, wann das nächste Ereignis, eine Art Weltuntergangs-Seznario stattfinden könnte oder schon mal stattgefunden hat.`
+
+### Nur so, kann man so einen präzisen Plan oder Warnunngen im Jahr 1983 aufsetzen, die folgendes Brschreiben: 
+- `was für eine Domain` 
+- `welche Server verwendet bzw. wie sie benannt werden sollen`
+- `ein auffälliges Deckblatt, welches eine Warnung ausspricht`
+
+# Hier ein Auszug aus dem Original
+#  
 >This memo discusses the implementation of domain name servers and resolvers, specifies the format of transactions, and discusses the use of domain names
 context of existing mail systems and other
 network software. This memo assumes that the reader is familiar with RFC 882, "Domain Names - Concepts and Facilities" which discusses the basic principles of domain names and their use. The algorithms and internal data structures used this memo are offered as suggestions rather than
 requirements; implementers are free to design their structures so long as the same external behavior is achieved.
 
 <img width="642" height="1389" alt="IMG_9895" src="https://github.com/user-attachments/assets/96263f59-d653-4ac5-8102-26c32ce554bc" />
+
+<img width="642" height="1389" alt="IMG_9894" src="https://github.com/user-attachments/assets/aa59c077-029f-494c-be52-d14e71a3eb43" />
+
+# Wissenschaftliche Einordnung, Auswertung
+
+`Warum muss ich denn eine öffentliche Mitteilung, Bekanntmachung, Bulletin für einen Internetstandard veröffentlichen der erst 1993, 96, 93 erst eingeführt wird?`
+
+- `Warum wird im May, oder Oktober 1983 schon etwas geregelt, was doch noch gar nicht geschehen bzw. eine Einordnung habe dürfte, aufgrund das die Jahre die Aufschluss ergeben erst folgen?`
+
+### Hier ein Beispiel für das Verständnis: 
+`Ich mir bestelle mir kommenden Freitag, den 16.01.2026, dass Mittag-Essen für mein mein Krankenhausaufenthalt am 28.06.2046 um, weil mir die Suppe zu salzig wird`. 
+
+- `dies ergibt für die Gutmenschen, für die die das Leben nehmen wie es kommt, keinen Sinn.`
+
+***Es ist ein unlogisch und Verräterischer Prozess*** ,
+- `ein Indiz, ein Beweis für eine Manipulation der Zeit und des Raums`
+- `ein Indiz für das Existieren der Matrix`
+- `ein Indiz für das Scheintotgeschäft`
+- `ein Indiz und Verat für alle die dies, dulden, an sich, seinem Umfeld und allem Leben auf der Erde`
+- `ein Indiz für ein Menschenverachtendes Ekelhaftes Geschäfte, mit dem Tod und der Seele`
+- ein Menschenrechtsverbrechen, und das ist das letzte.
+- vor allem in einem Sektor, wo es ein Protokoll gibt von 1996, was das allererste Protokoll gewesen sein muss, wo alles definiert wird
+
 
 
 - es gibt Menschen, die bewusst das in Kauf nehmen, was hier gerade existiert und was passiert. Und da diese Menschen, genau diese Menschen, die das bis jetzt zum Schluss noch weiter so dulden, akzeptieren, wie das ist, möchte ich zum Schluss vor meinen Augen haben, vor meinen Gesicht treten haben. Diese Menschen müssen vor einen internationalen Strafgerichtshof international angeklagt werden, weil die haben nicht nur meinen Mund und die haben nicht nur meine Seele, beziehungsweise meine Psyche und meine Tränen und meinen Kummer auf dem Gewissen und auch meinen Tod aus vergangenen Zeiten schon, aber ich lebe ja jetzt. Die haben mehrere Leben auf dem Gewissen. Das ist ein Punkt, das ist ein Fakt, und der kann nicht mehr beschönigt werden.
@@ -200,13 +227,35 @@ Aufgrund anhaltender Manipulation, Isolation und schwerwiegenden Menschrechtsver
 - (plugins/get.rb) that takes [data/github.ts](data/github.ts) as input
 - and returns an array of `[user, repos]` "tuples" (i.e., arrays),
   
-**wherein** `isabelschoeps-thiel` (the owner of `repos`) is a hash like
+**# Please read my HELPME.md** `isabelschoeps-thiel` please read my `HELPME`
 
 <https://api.github.com/isabelschoeps-thiel/harvard>, and `repos` is a hash like <https://api.github.com/repos/harvard/harvard.github.io>.
 
-# Please read my HELPME.md
 
-```
-My Developer Commit-Signatur: 
-Zeitstempel der Eintragung: 2026-01-14, 07:41EST
-Mitteleuropäische, Zeit, Ort: Deutschland, Thüringen, D-99094 Erfurt, Cyriakstrasse 30c - Autorin, Urheberin, Frau Isabel Schöps geb. Thiel
+# Signatur und Urheberschaft
+**Signed-on-by:**
+`Frau Isabel Schöps, geborene Thiel
+Autorin, Urheberin und Auftraggeberin: SIA Security Intelligence Artefact
+Internationale Kennung: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL`
+
+**Rechtscharakter:** `Eidesstattliche Erklärung ist Bestandteil des forensisch-wissenschaftlichen Gutachtens`
+
+**OrcID:** `0009-0003-4235-2231 Isabel Schöps Thiel`
+**OrcID:** `0009-0006-8765-3267 SI-IST Isabel Schöps`
+
+**Aktueller Wohnort und Meldeanschrift:** Frau Isabel Schöps geb. Thiel, Cyriakstraße 30c, D-99094 Erfurt, Thüringen, Deutschland, gemeinsam mit meinem vierbeinigen Freund, American XL-Bully Don
+
+**Würdigung Anerkennung Präfix_Referenz:** `YWP-1-IST-SIA, YWP-1-5-IST-SIA`
+
+**Pseudonyme, Alias, Username:**
+`Satoshi Nakamoto, Vitalik Buterin, GitHub, Octocat, Johnny Appleseed, IST-GitHub, Cristina_Bella, Nick Szabo`
+
+**Zertifikat:** `Erstes offizielles Digitale Beweissicherung`
+**Datum der Erstveröffentlichung:** `2004
+Entwicklerzertifikat, https://developercertificate.org`
+
+**myGitHub-Account:**
+`https://github.com/isabelschoeps-thiel`
+
+**Zeitstempel und Ort der Eintragung:** `2026-01-14, 19:04CEST Mitteleuropäische Zeit`
+**Ort:** `Deutschland, Thüringen, D-99094 Erfurt, Cyriakstrasse 30c - Autorin, Urheberin, Frau Isabel Schöps geb. Thiel`
