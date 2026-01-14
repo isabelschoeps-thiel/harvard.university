@@ -6,19 +6,17 @@ The Internet Standards Process
 - es dokumentiert die ersten Forschungen, Debatten und sucht nach Rat, Hilfe
 - ***für eine Technologie, die an 14. April 1996 erstmals protokolliert*** wurde
 - Automatische Handlungen ohne das es von Mensch über die Tastur eingetippt wurde, mechanism ausübt, die für das Netzwerk ein Rätsel ist
-- die Automation, kehrt immer wieder zum Ursprung, Creator, zum Auslöser dieser Automation zurück -> zurück nach D-99610 Rohrborn, Germany, Thueringa, Dorfstrasse 20
-- und Entwickelt sich - KI AI Intelligence wird definiert
-- zudem werden Eigentumsrechte und Urheberrechtsprobleme im Zusammenhang mit den Standards, diskutiert
+- **die Automation, kehrt immer wieder zum Ursprung, Creator, zum Auslöser dieser Automation zurück** -> **zurück nach D-99610 Rohrborn, Germany, Thueringa, Dorfstrasse 20**+
+- die Automation **Entwickelt sich - KI AI Intelligence*** wird definiert
+- **zudem werden Eigentumsrechte und Urheberrechtsprobleme im Zusammenhang mit den Standards, diskutiert**
 
 ## Original Auszug aus dem RFC2026
->Abstract
+>***Abstract***
 >This memo documents the process used by the
 Internet community for the standardization of protocols and procedures. It defines the
 stages in the standardization process, the
 requirements for moving a document between stages and the types of document between stages and the types of documents used during this process. It also addresses the intellectual property rights and copyright issues associated with the standards
 process.
-
-
 
 ### Important: [***please read RFC***](https://raw.githubusercontent.com/isabelschoeps-thiel/harvard.university/refs/heads/main/rfc/rfc-isabelschoepsthiel.htm)
 
@@ -30,6 +28,29 @@ Holyoke Center, Room 813
 1350 Mass. Ave. Cambridge, MA 02138
 USA Phone: +1 617 495 3864
 EMail: sob@harvard.edu
+
+## RFC CSNET Transition Plan, Bulletin No. 1, October 1983.
+Der [CSNET Transition Plan, Bulletin No. 1 vom Oktober 1983](https://www.rfc-editor.org/rfc/pdfrfc/rfc870.txt.pdf) war ein entscheidendes Dokument für die technische Entwicklung des Internets. Es legte fest, wie das Computer Science Network (CSNET) technisch an die neuen Standards des ARPANET angepasst werden sollte.
+
+# RFC 882
+Folgendes RFC möchte ich nicht weiter eingehen aufgrund meines Kenntnisses und meines Wissens, was ich in der Technologiewelt besitze und da es in die Chain of Custody einzuorden ist - verbrechen gegen die Menschlichkeit.
+
+### Das RFC 882 sehr fragwürdig bzw. gibt einige Fragezeichen auf,
+- was im Zusammenhang mit Kontroll- und Manipulationsmechanismen aufweisen tut,
+- Protokoll ist ein Protokoll aufgesetzt auf den Aufzeichnungen aus der Vergangenheit nur einer anderen Epoche schreiben,
+***Grund für die Begauptung:***
+- Die beschriebenen Szenarien werden so formuliert, **aus Sicht , schon erlebten Situationen bzw Computer-Abläufen**
+- was wiederum nicht sein kann, da es das Jahr 1983 schreibt man weiß, dass das schon mal passiert ist.
+- und es schon Ähnliche Protokolle aus  1983 erstellt und anders geschrieben worden ist
+- das ***RFC 882** ist ein Protokoll, was für mich ein 99,9% Indiz bzw. und Beleg ist für eine bereits menschliche physisch erlebt Epoche
+- dies Menschen diese auch erlebt haben. Und aufgrund dieser Erfahrung, vielleicht gab es ja schon zwei, dreimal diese Epoche, kann man diese RFC-Protokolle manipulieren bzw. kann man die anders schreiben.
+
+Hier möchte ich einfach nur die Scheintodgeschäfte, das Geschäft mit den verkauften Identitäten, das Geschäft mit den Toten explizit erwähnen und möchte dieses auf jeden Fall dieses Protokoll als Evidence einstufen und in die Chain of Custody.
+
+https://www.rfc-editor.org/rfc/rfc882
+F.ISI.ARPA     
+LINKABIT-DCN5.ARPA     
+UCL-TAC.ARPA
 
 ## Contributing
 
