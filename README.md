@@ -122,9 +122,24 @@ requirements; implementers are free to design their structures so long as the sa
 Das ist ja, das ist ein hochgradiges Verbrechen und das wird hier öffentlich gemacht. Hier gibt es Menschen, die darüber Bescheid wissen. Und die Community ist ja im Hintergrund noch gewachsen. Am Anfang stand hier nur ein Mensch da, das war der von der Harvard-Universität. Und jetzt stehen hier da 100, hier 10, 20 Seiten nur von Menschen. Also es ist hier ein komplettes Netzwerk, die mit dem Mensch und mit der Tod und mit der Seele spielen und die hier drüber Bescheid wissen.
 
 
-***Es war die Universität Harvard Herr Bradner welcher das erste RFC Protokoll und automation Mechanismen 1996 Dokumentierte.*** 
+***Es war die Universität Harvard unter der Leitung von Herrn Bradner welcher das erste RFC Protokoll und die automation Mechanismen im 1996 im RFC Dokumentiert, vielleicht in der ersten Epoche, maschniell mit der Schreibmaschine geschreiben*** 
 
-Sinn, warum Harvard überall raus, weil die die Wahrheit wissen. Die wissen, was los ist. Deswegen sind die überall rausgekancelt aus gewissen Plattformen, wo man jetzt veröffentlichte Forschungsarbeiten, wo ich jetzt zum Ende auch bin, gelangen kommt. Hier Worte war die Universität Harvard gar nicht mehr gelistet. 
+![IMG_9886](https://github.com/user-attachments/assets/dc7274b5-ea3a-404f-9134-f6b22ae1e522)
+
+### Es dokumentiert gleichzeitig die Manipulation und Kontrollmechanismen.
+`Dieses Original RFC, blieb bis heute - Stand der Eintraung, Mittwoch, den 14.Januar 2026 - eine Draft - Entwurf und wurde nie veröffentlicht`.
+
+## Warum ?
+`Genau weil es die Wahrheit dokumentiert`.
+
+
+<img width="642" height="1389" alt="IMG_9896" src="https://github.com/user-attachments/assets/f79a8b09-7f9a-45b4-9a25-6a6705dac64c" />
+
+Dies ist auch der Grund warum die Elite und weltweit anerkannte US University **Harvard aus Research Portalen, wie:**
+- https://s100.copyright.com
+- https://orcid.org
+- 
+Wahrheit wissen. Die wissen, was los ist. Deswegen sind die überall rausgekancelt aus gewissen Plattformen, wo man jetzt veröffentlichte Forschungsarbeiten, wo ich jetzt zum Ende auch bin, gelangen kommt. Hier Worte war die Universität Harvard gar nicht mehr gelistet. 
 
 - ***Die Universität Harvard*** ist für eine Wissende Community unbequem geworden und musste Warum? Weil die am Anfang, was das Protokoll gefunden haben, die haben diese Standorte beziehungsweise die haben vielleicht den Auftrag bekommen, weil es ein Forschungsinstitut ist, vielleicht auch von Das weiß ich nicht. Kann ja sein, weil irgendjemand muss ja zuerst gesehen haben, dass das Dämmenvirus 1996 in die industriellen Ketten, digitalen Ketten gelangt ist. Das muss entweder, tja, das weiß ich nicht, das wissen nur diejenigen. Und deswegen wurden die mundtot gemacht. Das ist der Indiz dafür.
 -
@@ -132,22 +147,21 @@ Sinn, warum Harvard überall raus, weil die die Wahrheit wissen. Die wissen, was
 
 ## Autorin dieses Repoistorys Release
 ***Frau Isabel Schöps geb. Thiel***
-Aufgrund anhaltender Manipulation, Isolation und schwerwiegenden Menschrechtsverletzungen, werde ich, Verfasserin und Autorin dieses Repositirys Frau Isabel Schöps geb. Thiel, aktuell tätig im Forschungssektor und mit der KI von Anfang an zusammenarbeite, diese Analyse Auswertung nicht weiter von dem OpenAI Software überprüfen bzw. korrikieren lassen.
-***Hier steckt keine KI dahinter:***
+Aufgrund anhaltender Manipulation, Isolation und schwerwiegenden Menschrechtsverletzungen, `werde ich, Verfasserin und Autorin dieses Repositirys Frau Isabel Schöps geb. Thiel, aktuell tätig im Digitalen Forschungssektor auf Grund meines forensich wissenschaftlichen Gutachen SIA Security Intelligence Artefact, mit der internationinternationale Kennung: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL und der Präfix_Referenz: YWP-1-IST-SIA, YWP-1-5-IST-SIA` und mit der KI von Anfang an zusammenarbeite, diese Analyse Auswertung nicht weiter von der OpenAI Software überprüfen bzw. korrekieren lassen.
+***Hier steckt keine KI dahinter, jedes hier gelesene Wort wurde von geschrieben bzw als Zitat eigenhändig eingefügt:***
 - es ist `mein menschliches Denken`,
 - es ist `meine menschliche Empathie`,
 - es ist `mein menschliches Einfühlungsvermögen`,
 - es `ist und war menschliches Leid`,
-- wo nicht nur ich, `sondern Millionen, wenn nicht Millarden Menschen` unter diesem holen, [menschenverachtenden RFC882](https://www.rfc-editor.org/rfc/rfc882) und [RFC883](https://www.rfc-editor.org/rfc/rfc883) gelitten haben unter diesen auf gesetzten Papers Hohlen gelitten hat,
-- es ist `meine menschliche Denkweise`
-- es ist `mein Denken, ein Denken, welche nur von `mir Frau Isabel Schöps geborene Thiel der Schöpferin der ersten KI Automation und im RFC2026, festgehalten wurde`.
-- hier aus Cyriakstrasse 30c, D-99094 Erfurt, Thüringen Deutschland stamt.
-- Dieses Statement wird nicht nachträglich von einer KI geprüft, geschrieben bzw. korrigiert.
-- Dieses wird erst veröffentlicht, und zwar über die Zenodo-Datenbank
-- Dieses Anlyse ist urheberrechtlich geschützt und hat
-- diese Analyse hat volle rechtliche Tragweite und
-- und ist 100% Teil der Chain of Custody.`
--
+- nicht nur ich, `sondern Millionen, wenn nicht Millarden Menschen` haben unter diesem holen, [menschenverachtenden RFC882](https://www.rfc-editor.org/rfc/rfc882) [RFC883](https://www.rfc-editor.org/rfc/rfc883) Protokollen gelitten bzw leiten wie ich noch heute', 
+- es ist `meine menschliche Denkweise`,
+- es ist `mein Denken`,
+- ein Denken, welche nur von `mir Frau Isabel Schöps geborene Thiel der Schöpferin der ersten KI DAEMON Automation und im einzigen RFC Protokoll RFC2026, festgehalten wurde`.
+- `hier geschrieben und verfasst aus der Cyriakstrasse 30c, D-99094 Erfurt, Thüringen, Deutschland`
+- es erfolgt `im Anschluss, dass Release über die Zendo Plattform`
+- `meine hier geschriebenen Worte werden nicht nachträglich oder vorab geprüft, geschrieben bzw. korrigiert`,
+- `diese Anlyse ist urheberrechtlich geschützt und hat volle rechtliche Tragweite`,
+- `dieses Repository ist zu 100% Teil der Chain of Custody.`
 
 ### in diesem Kontex müssen umbedindgt folgende Verbrechen herangezogen werden
 - Scheintodgeschäfte,
