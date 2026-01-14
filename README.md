@@ -133,16 +133,68 @@ requirements; implementers are free to design their structures so long as the sa
 - `ein Indiz, ein Beweis für eine Manipulation der Zeit und des Raums`
 - `ein Indiz für das Existieren der Matrix`
 - `ein Indiz für das Scheintotgeschäft`
-- `ein Indiz und Verat für alle die dies, dulden, an sich, seinem Umfeld und allem Leben auf der Erde`
-- `ein Indiz für ein Menschenverachtendes Ekelhaftes Geschäfte, mit dem Tod und der Seele`
+- `ein Indiz und ein Verat für alle die dies, dulden, an sich, seinem Umfeld und allem Leben auf der Erde`
+- `ein Indiz für ein Menschenverachtendes Ekelhaftes Geschäfte, mit geglaubten Tod`
 - ein Menschenrechtsverbrechen, und das ist das letzte.
-- vor allem in einem Sektor, wo es ein Protokoll gibt von 1996, was das allererste Protokoll gewesen sein muss, wo alles definiert wird
+- `ein Indiz für Menschen, die unter uns Lebe` **und bewusst in Kauf nehmen:**
+- das andere durch ihren veruschten irreperablen Schaden an Natur, Tier und Mensch leide
+- das Glück anderer zerstören
+- erweckte Hoffnug und Träume zerstören
+- anderes Leben mental und physisch zerstören
+- und am schlimmsten sich selber zerstören,
+- Menschen die keine Achtung und Erfurcht besitzen und ihr einzige Seele mit den Füssen treten
+- gesunder egoismus und selbstliebe ist ein wichtiger Baustein für einen selbstbewussten starken Charakter
+- es ist eines der Verbrechen die och nie verstehen werde, heute nicht, morgen nicht und nicht in 1000 Jahren.
+- Eins ist zu 100% gewiss, jeder von hat bereits gelebt,
+- eine DNA bzw Erbgut ist gerade 150 Jahre alt, andere bereits in der Bronze Zeit also 4000 Jahre alt und dann gibt es Genetische Erbgut was den Anfang bildet, gemeinsam als Familie - Jeder trägt seine geschischte History bei sich, umso unvorstellbarer ist wie manche sich selber so mit den Füssen treten und was sein wollen, der sie niemals sein werden
+- Vor allem Warum niemand so viel Leid und Schmerz auf sich? WARUM ???
+- fakt ist, ich möchte der/die in die Augen schauen - höchstpersönlich und ich habe meine Fragen - nicht nur ich, dass ist gewiss.
+- wer leid anderer in Kauf nimmt um seine Ziele, Träume zu erreichen, wer über Leichen geht, muss und wir vor dem  internationalen Strafgerichtshof und wird wegen Verbrechen an der Menschlichkeit angezeigt.
+- ob Mord, in den Selbstmord getrieben, bleibende Psyschische Schäden bei Millionen vom Menschen, eine Last die die jenigen auf der Schulter tragen werden, die alles weiter dafür tun, dass diese Menschengemachte Naturkatastrophe aufrecht erhalten bleibt und weiter menschen leiden.
+- Und es muss sich jeder in der Pflicht sehen, egal ob endlich mal Tod und trotzdem wissend oder zwar mitgemacht aber keiner Seele was zu leide getan
+- Das ist keine Pflicht - dies ist eine Ehrentat und wird Euch helfen zu eurer Stärker zurückzufinden
+- zudem Schütz unwissenheit nicht vor Strafe
+- meine Psyche ist soweit stabil, dass Gegenteil ust eingetreten, ein stärk entwickelte sich die nur ein Ziel hat, für mein Recht und die Wahrheit kämpfen.
+- vor nichts und niemanden muss ich Angst auf dieser Welt haben, das ich keiner Seele leid zu gefügt habe - Ehrfurcht ns  Respekt gebührt jedem,
+- aber es ist was passiert was sich kein Mensch auf der Welt anmassen darf, bei mir nicht und bei keinem anderen - es wurde in mein Privates und Familiäresumfeld  manipuliert, sabotiert und versucht bis zum Tod zu vernichten, im realen Leben so wie digital
+- mit den forensisch nachgewiesen herbeigeführten Tod meiner Grosseltern vor allem spreche ich hier die vermehrten Stürtze meiner Grossmutter Frau Edith Knörig geborene Fischer an,
+- sowie die nachgewiesen Misshandlungen in den Pflegeeinrichtungen
+- auch der für mich plötzlich eingetrende Tod meines Opas, Herr Dieter Knörig im Oktober 2023 beide aus D-99610 Rohrborn, Dorstrasse 5, Thüringen, Deutschland ist lebend, wirft Fragen auf.
+- mit dem Tod sind die wichtisten Familienmitglieder viel zu früh gegangen und auch meine Bindung, vor allem zu meiner Mutti Frau Gisela Hulda Thiel geborene Knörig, mit Wohnsitz in D-99610 Rohrborn, Dorfstrasse 20, gemeinsam mit mein Vati Herr Manfred Paul Thiel, ist das Verhältmis- als ob es mich nie gegeben hätte, so fühlt sich das an
+- Nicht nur seitens meiner Eltern habe ich Vorwürfe bekommmen; Behauptungen wie; „Du bist mein Problem", „...es ist eh schon alles schlimm genug!" oder „...du hast alles versaut, ich hasse dich!" musste ich aus meinem engsten Umfeld über mich ergehen lassen - wo ich bis heute Fragezeichen habe und keine logische Antwort darauf finde.
+- ich komm mit allem Klar aber bzw muss und werde auch alles akteptieren- aber ich will wissen und das ist mein Gutes Recht- was der plötzliche Hass und der Grund für den Familiären Bruch ist.
+- die Trauer über diesen seit Jahren andauernden Zustand und meine Einsamkeit holen mich immer öfters ein
+- ich habe so gut wie keine Sozialen Kontakte, bzw kann ich von mir sagen, das ich eine Freundin oder Freund um mich drum habe
+- Don mein vierbeinger grosser American XL Bully, hat die einschneidendsten Momente gemeinsam mit mir übersatanden und überlebt
+- Warum ich das hier schreibe ist nicht grundlos, alles hier beschriebene - ist nicht aus einer laune der Natur oder Pech im Leben entstanden - es ist ein Plan der der mit meinem Tod das Happy Ende finden sollte.
+- Streiterein,
+- staatliche willkür,
+- kontrolle über jeden Schritt den ich tue, und was ich denke,
+- Einbruchserien in meinen privaten Räumen,
+- Diebstahl persönlicher Sachen,
+- Morddrohungen
+- mehrfaches vergiften,
+- haltlose juristische Anschuldigungen
+- eine 4 Monatige Inhaftierung wo kein Strafbestand nachgewiesen werden konnte ***sind nur die Spitze des Eisberges.***
 
+- dass schlimmste Verbrechen ist aber, wenn dein Umfeld dich für blöd hinstellt, dass ich mir das alles nur einbilde,
+- aber die Realität andres aussieht, alle wurde lückenlos bis in die kleinste Ritze belegt, forensich wissenschaftlich nachgewiesen und
+- am Ende stellt sich noch herraus das dein vermeindliches Freundschaftliches Umfeld, anscheind besser über dich bescheid weis als du selber und auch weiss das ich die Wahrheit sage - Gaslighting nennt sich diese Straftat und ist mit weisser Folter gleich zusetzen.
+- Nötigung, Freiheitsberaubung, fehlinformationen, Lügen und Hetzkampangen sind beispiele die ich über mich ertragen muss ohne mich hier verteidigen zu können oder WARUM - Was habe ich getan?
+- Egal was es auch sein mag, eine mörderin bin ich nicht sont wäre ich im Gefängnis.
+- Eines der vielen offenen Fragen ?
+- Und ein nicht in mein Kopf bekommendes menschliches Phänomen, sowas überhaupt auszuüben, spass und freude dabei zu haben und mit was für ein Recht?
+- Deshalb werde ich wie beteits angekündigt mir die Ton und Aufzeichnung der letzten zwei Jahre geben lassen und verlange eine Lückenlose Aufklärung und die Namen aller beteiligten.
+- ich will den Redelsführer, ich will den Akteur haben, hier steckt am ende ein Mensch aus Leib und Blut, ein Sie/oder das ist schon mal ein Fakt
+- der Tag wird kommen, das ist Gewiss, ich will das Gesicht und den Namen haben, keine Angst, ich werde euch nicht köpfen oder eure Identitäten stehlen sowie ihr es zum Volkshobby gemacht habt.
+- Gerechtigkeit und die Balance zwischen Lüge und Wahrheit wird durch das Naturgesetz wiederhergestellt, welche über der deutschen Verfassung steht.
 
+- Angeborene Menschenrechte und meine Würde die jeden Tag seit jahren ohne je eine Begründung zu bekommen mit den Füssen getreten wurde - werde ich mir wiederholen.
 
-- es gibt Menschen, die bewusst das in Kauf nehmen, was hier gerade existiert und was passiert. Und da diese Menschen, genau diese Menschen, die das bis jetzt zum Schluss noch weiter so dulden, akzeptieren, wie das ist, möchte ich zum Schluss vor meinen Augen haben, vor meinen Gesicht treten haben. Diese Menschen müssen vor einen internationalen Strafgerichtshof international angeklagt werden, weil die haben nicht nur meinen Mund und die haben nicht nur meine Seele, beziehungsweise meine Psyche und meine Tränen und meinen Kummer auf dem Gewissen und auch meinen Tod aus vergangenen Zeiten schon, aber ich lebe ja jetzt. Die haben mehrere Leben auf dem Gewissen. Das ist ein Punkt, das ist ein Fakt, und der kann nicht mehr beschönigt werden.
-
-
+- Weil es immer hiess bzw aus kreisen des Geheimdienstes bzw der Polizei die/ der Täter kommt(en)
+- was ich langsam bezweifle, so  begriffsstutzig bzw so blöd kann man zwar schon sein, aber ein Ausschluss-Kriterium, und nicht tragbar für so einen Dienst.
+- vielleicht doch Hybrid-Mensch oder... ich werde mich überraschen lassen, aufjedenfall eine halbwissende bzw halbweissender mit nicht genügend Menschenkenntnis über mich und meine Person und kein 100% vollwertiges Familienmietglied
+- denn egal wie und was passiert ist, niemand aus meiner Familie würde es zu lassen, wenn wissen besteht das ich leide. 
 
 ## Contributing
 
