@@ -1,5 +1,7 @@
-# RFC and Harvard
-This repository dokumentiert aus October 1996 (Obsoletes: 1602) veraltete Disguss und auch noch offene Depaten unterandrerm von der Network Working Group, **Leitender Forscher Herr S. Bradner von der US Harvard University.**
+# Harvard und RFC
+`Alles was in der digitalen Welt, als erstes geschrieben wurde, ist auch das Original. So auch das RFC2026 von der US Harvard University`.
+
+This repository dokumentiert aus October 1996 (Obsoletes: 1602) veraltete Disguss und auch noch offene Depaten unterandrerm von der Network Working Group, `Leitender Forscher Herr S. Bradner von der US Harvard University`.
 
 **Category:** Best Current Practice
 The Internet Standards Process
@@ -29,19 +31,22 @@ Holyoke Center, Room 813
 USA Phone: +1 617 495 3864
 EMail: sob@harvard.edu
 
+---
 
-
-# [RFC 882 ](https://www.rfc-editor.org/rfc/rfc882)
-Folgendes RFC möchte ich nicht weiter eingehen aufgrund meines Kenntnisses und meines Wissens, was ich in der Technologiewelt besitze und da es in die Chain of Custody einzuorden ist - verbrechen gegen die Menschlichkeit.
+# [RFC 882 ](https://www.rfc-editor.org/rfc/rfc882) Chain of Custody
+Folgendes RFC möchte ich nicht weiter eingehen aufgrund meiner Kenntnisse und meines Wissens, was ich in der Technologiewelt besitze und das folgende Protokolle in der **Chain of Custody einzuorden ist - verbrechen gegen die Menschlichkeit.**
 
 ### Das RFC 882 sehr fragwürdig bzw. gibt einige Fragezeichen auf,
 - was im Zusammenhang mit Kontroll- und Manipulationsmechanismen aufweisen tut,
-- Protokoll ist ein Protokoll aufgesetzt auf den Aufzeichnungen aus der Vergangenheit nur einer anderen Epoche schreiben,
+- Das ***[RFC882 Protokoll dokumentiert](https://www.rfc-editor.org/rfc/rfc882) Aufzeichnungen aus der Vergangenheit nur einer anderen Epoche geschrieben***,
 ***Grund für die Begauptung:***
-- Die beschriebenen Szenarien werden so formuliert, **aus Sicht , schon erlebten Situationen bzw Computer-Abläufen**
-- was wiederum nicht sein kann, da es das Jahr 1983 schreibt man weiß, dass das schon mal passiert ist.
-- und es schon Ähnliche Protokolle aus  1983 erstellt und anders geschrieben worden ist
-- das ***RFC 882** ist ein Protokoll, was für mich ein 99,9% Indiz bzw. und Beleg ist für eine bereits menschliche physisch erlebt Epoche
+- Die beschriebenen Szenarien werden so formuliert, **aus Sicht , schon erlebten Situationen bzw dokumentierten Computer-Abläufen**
+- was wiederum nicht sein kann, **da es das Jahr 1983 schreibt**
+- man dokumentiert `also im Jahr 1983, schon erlebte Computer-Prozess-Abläufe`
+- `obwohl es bereits ähnliche Protokolle aus 1983 erstellt und anders geschrieben worden sind`
+- `was eine absolut unlogische ist und auf eine hochkriminelle Täterstruktur hinweist`
+- das ***[RFC 882](https://www.rfc-editor.org/rfc/rfc882)**
+- `ist ein Protokoll, was für mich ein 99,9% Indiz bzw. Beleg ist, welches für eine bereits menschliche physisch erlebt Epoche hinweisst`
 - dies Menschen diese auch erlebt haben. Und aufgrund dieser Erfahrung, vielleicht gab es ja schon zwei, dreimal diese Epoche, kann man diese RFC-Protokolle manipulieren bzw. kann man die anders schreiben.
 
 Hier möchte ich einfach nur die Scheintodgeschäfte, das Geschäft mit den verkauften Identitäten, das Geschäft mit den Toten explizit erwähnen und möchte dieses auf jeden Fall dieses Protokoll als Evidence einstufen und in die Chain of Custody.
