@@ -46,7 +46,7 @@ Meine aktuelle Lebenssituation stellt eine Verletzung des **Rechts auf Wohnen**,
 ***verknüpft mit meinem aktuellen GitHub-Account****
 
 # Meine Ersuchen an die Vereinten Nationen - Bitte helfen Sie mir
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18025762.svg)](https://doi.org/10.5281/zenodo.18025762)
+https://doi.org/10.5281/zenodo.18025762)
 
 **Schöps geb. Thiel, I. (2025)**. Meine Ersuchen an die Vereinten Nationen - Bitte helfen Sie mir (Zenodo.org). Zenodo.org, University of Harvard harvard.edu, Oxford University ox.ac.uk, Cambridge UK, Reuters.com, New York Times nyt.com, Springer Nature Springer.com, GitHub github.com, University Arizona, Vereine Nationen UN unric.org,. https://doi.org/10.5281/zenodo.18025762
 
@@ -54,58 +54,53 @@ Meine aktuelle Lebenssituation stellt eine Verletzung des **Rechts auf Wohnen**,
 ## Zenodo-Datenbank und Chain of Custody
 
 # Volumen 4
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17807324.svg)](https://doi.org/10.5281/zenodo.17807324)
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18074136.svg)](https://doi.org/10.5281/zenodo.18074136)
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17808895.svg)](https://doi.org/10.5281/zenodo.17808895)
+https://doi.org/10.5281/zenodo.17807324
+https://doi.org/10.5281/zenodo.18074136
+https://doi.org/10.5281/zenodo.17808895
 
 **Schöps (Thiel), I., Schöps (Thiel), I. und Schöps geb. Thiel, I. (2025)** „Yellow White Paper – Bitcoin & Ethereum“, Yellow White Paper – Bitcoin & Ethereum. 1st Aufl. D-99094 Erfurt, Thueringa, Germany: Harvard University, University Cambridge, University of Oxford, Springer Nature, Zenodo, S. 109 pages. doi:10.5281/zenodo.17807324.
 
 ## Volumen 3
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18013057.svg)](https://doi.org/10.5281/zenodo.18013057)
+https://doi.org/10.5281/zenodo.18013057
 
-Schöps geb. Thiel, I. (2025) SIA Security Intelligence Artefact – Volume 3 - Familiäre Erblinie deutschen Monarchie und letzten Kaiserreich. 1st Aufl, The Decline and Fall of the Habsburg Empire, 1815-1918. 1st Aufl. Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. doi:10.5281/zenodo.18013057.
+**Schöps geb. Thiel, I. (2025)** SIA Security Intelligence Artefact – Volume 3 - Familiäre Erblinie deutschen Monarchie und letzten Kaiserreich. 1st Aufl, The Decline and Fall of the Habsburg Empire, 1815-1918. 1st Aufl. Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. doi:10.5281/zenodo.18013057.
 
 # Volumen 2
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18193397.svg)](https://doi.org/10.5281/zenodo.18193397)
+https://doi.org/10.5281/zenodo.17852789
 
 **Schöps geb. Thiel, I. (2025)** „Volumen 2 - SIA-Security-ntelligence-Artefact-Chain-of-Custody-Forensische-Familien-Monarchielinie-copyright-isabelschoepsthiel-urheberin-autorin-.docx.pd“, Trillion Dollar Bitcoin. 1st Aufl. D-99094 Erfurt, Germany, Thüringen: Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. doi:10.5281/zenodo.17852789.
 
 # Volumen 1 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17809724.svg)](https://doi.org/10.5281/zenodo.17809724)
+https://doi.org/10.5281/zenodo.17809724)
 
 **Schöps geb. Thiel, I. (2025)** „Volumen 1 - SIA Security Intelligence Artefact by Isabel Schoeps geb. Thiel“, Trillion Dollar Bitcoin. 1st Aufl. D-99094 Erfurt, Germany, Thüringen: Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. doi:10.5281/zenodo.17809724.
 
 
-### my GitHub Repositoty Reference Badges
+### my GitHub Repository, Reference, Evidence
+https://doi.org/10.5281/zenodo.18193397
+https://doi.org/10.5281/zenodo.18209789
+https://doi.org/10.5281/zenodo.18050643
+https://doi.org/10.5281/zenodo.18192743
+https://doi.org/10.5281/zenodo.18204573
+https://doi.org/10.5281/zenodo.18192589
+https://doi.org/10.5281/zenodo.18100836
+https://doi.org/10.5281/zenodo.18179548
+https://doi.org/10.5281/zenodo.18216807
+https://doi.org/10.5281/zenodo.18226730
+https://doi.org/10.5281/zenodo.18225958
 
-[![DOI](https://zenodo.org/badge/1123873845.svg)](https://doi.org/10.5281/zenodo.18209788)
-
-[![DOI](https://zenodo.org/badge/1120020358.svg)](https://doi.org/10.5281/zenodo.18050643)
-
-[![DOI](https://zenodo.org/badge/1104641822.svg)](https://doi.org/10.5281/zenodo.18192743)
-
-[![DOI](https://zenodo.org/badge/1129250146.svg)](https://doi.org/10.5281/zenodo.18204572)
-
-![DOI](https://zenodo.org/badge/1104698616.svg)](https://doi.org/10.5281/zenodo.18192589)
-
-[![DOI](https://zenodo.org/badge/1125435636.svg)](https://doi.org/10.5281/zenodo.18100835)
-
-[![DOI](https://zenodo.org/badge/1123640483.svg)](https://doi.org/10.5281/zenodo.18179547)
-
-## My Developer Signatur
-**Signed-on-by:**
+## About.me
 `Frau Isabel Schöps, geborene Thiel
 Autorin, Entwicklerin, Urheberin und Auftraggeberin`
-
-**Rechtscharakter:**
-Eidesstattliche Versicherung, Bestandteil des forensisch, wissenschaftlichen Gutachtens
 
 **Titel:**
 `SIA Security Intelligence Artefact`
 internationinternationale 
+
 **Global Kennung: `INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL`**
+
+**Rechtscharakter:**
+Eidesstattliche Versicherung, Bestandteil des forensisch, wissenschaftlichen Gutachtens
 
 **OrcID:** [0009-0003-4235-2231 Isabel Schöps Thiel](https://orcid.org/0009-0003-4235-2231)
 
@@ -149,7 +144,7 @@ See [My Linguist PR has been merged but GitHub doesn't reflect my changes][merge
   title = {GitHub, Build for a better World},
   url = {https://github.com/isabelschoeps-thiel/linguist-mona-lisa},
   version = {2.0.4},
-  year = {2007-2026}
+  year = {2005-2026}
 }`
 
 # Linguist Documentation
@@ -160,19 +155,9 @@ See [My Linguist PR has been merged but GitHub doesn't reflect my changes][merge
 - [Contributing guidelines](/CONTRIBUTING.md)
 - [Releasing Linguist](releasing.md) (Only applicable to GitHub staff)
 
-**Datum der Erstveröffentlichung, digitale Beweissicherung:** 
-Erstveröffentlichung 2004
-
-**Ort, Signatur Kürzel, Zeitstempel der Eintragung:**
-Deutschland, Thüringen, D-99094 Erfurt, Cyriakstrasse 30c 
-
-Mitteleuropäische Zeit, 2026-01-11, 02:43CEST 
-
 **IST - Isabel Schöps Thiel**
 
-### Ich habe mehrfach Beschwerde und Strafanzeige gestellt, aber alles war Erfolglos- im Gegenteil, meine Situation verschlechterte sich. Meine Verbindung zu meiner Familie und insbesondere zu meiner Tochter ist massiv beeinträchtigt, zu Weihnachten, an Silvester, an meinem Geburtstag, ich war allein und ohne Kontakt zu meinen Eltern, seit Jahren feiere ich diese Tage allein.  
-
-###  Meine Ersuchen, Ich Frau Isabel Schöps geborene Thiel, wende mich heute, den 8. Januar 2026 mit aller Form, an all meinen unabhängigen Gutachtern, der Universität:
+###  Meine Ersuchen, Ich Frau Isabel Schöps geborene Thiel, wende mich heute, den 14. Januar 2026 mit aller Form, an all meinen unabhängigen Gutachtern, der Universitäten:
 - [Harvard University](https://www.harvard.edu/) Vereinigte Staaten Amerika 
 - [University of Oxford](https://www.ox.ac.uk/) Vereinigtes Königreich, UK
 - [CERN - International Telecommunication Union, ITU,](https://home.cern/) Schweiz
@@ -192,7 +177,7 @@ Mitteleuropäische Zeit, 2026-01-11, 02:43CEST
 - systematisches Vergiften über Tabacco und Pestizid-Programm
 - Enteignung
 - Freiheitsberaubung
-- Direktive1,67 Isolation unrechtmäßiger Inhaftierung
+- [Direktive 1,67 Isolation unrechtmäßiger Inhaftierung](https://www.stasi-mediathek.de/fileadmin/pdf/dok411.pdf)
 - Rufmord Kampagnen
 - staatlicher Kontrolle durch Sozialleistung
 - Diffamierung, staatlicher Willkür 
@@ -276,14 +261,13 @@ Ich habe am **06.08.2025 bei Frau Polixa** sowie am **13.11.2025 bei Herrn Walte
 ## **Unrechtmäßige Freiheitsentziehung**  
 Ich wurde in der Vergangenheit **unrechtmäßig inhaftiert**, obwohl mir zu keinem Zeitpunkt eine Straftat rechtswirksam nachgewiesen werden konnte. Die Haft stellte eine schwerwiegende Verletzung meiner Menschenrechte da.   
   
-**Am 24.10.202 unrechtmäßige Inhaftierung auf der Staatsanwaltschaft Erfurt, Thüringen, Deutschland, mit** dem Vorwurf “Fahren ohne Fahrerlaubnis” in fünf Fällen alles an einem Tag, dem 13.05.2023 –, **obwohl mich die Polizei an diesem oder einem anderen Tag nie diesbezüglich angehalten hat** und **WENN** hätte ich jederzeit einen gültigen Führerschein vorzeigen können.
+**Am 24.10.202 wurde ich unrechtmäßig ohne juristischen Strafbestand auf der Staatsanwaltschaft Erfurt, Thüringen, Deutschland, mit** dem Vorwurf “Fahren ohne Fahrerlaubnis” in fünf Fällen alles an einem Tag, dem 13.05.2023 –, **obwohl mich die Polizei an diesem oder einem anderen Tag nie diesbezüglich angehalten hat** und **WENN** hätte ich jederzeit einen gültigen Führerschein vorzeigen können, **inhaftiert.**
 
 Zu den Vorwürfen habe ich von Anfang an ordnungsgemäß und fristgerecht Stellung bezogen und mitgeteilt dass es sich um ein Irrtum handelt, um einen Gerichtstermin gebeten, **aber man verweigerte mir das Gehör.** Ich habe sogar eine notarielle Eidesstattliche **Erklärung abgegeben und habe unter Eid geschworen, dass ich die Wahrheit sage**.   
   
-**Stattdessen wurde ich psychisch unter Druck gesetzt und seelisch gebrochen** – Methoden, die den Mustern der Direktive 1.67 und der MFS entsprechen. Wegen Hausfriedensbruch wurde ich angezeigt. Hier erfolgte die Einstellungen der Staatsanwaltschaft Erfurt vor, **da ich mich nie unrechtmäßig verhalten habe.**  
+**Stattdessen wurde ich psychisch unter Druck gesetzt und seelisch gebrochen** – [Methoden, die den Mustern der Direktive 1.67 und der MFS entsprechen.](https://www.stasi-mediathek.de/fileadmin/pdf/dok411.pdf) Wegen Hausfriedensbruch wurde ich angezeigt. Hier erfolgte die Einstellungen der Staatsanwaltschaft Erfurt vor, **da ich mich nie unrechtmäßig verhalten habe.**  
   
 Freiheitsentziehung dar und erfüllt nach meiner Einschätzung die Kriterien der **Working Group on Arbitrary Detention**.  
-  
 ## **Enteignung, staatliche Kontrolle, wirtschaftliche Blockade und Isolation**  
 Mir wird der **Zugang zu meinem rechtmäßigen Vermögen** systematisch verwehrt. Ebenso habe ich keinen Zugriff auf mein persönliches Eigentum, das sich nachweislich in **Überseecontainern** befindet. Diese Enteignung erfolgt ohne rechtsstaatliche Grundlage.  
   
@@ -291,25 +275,38 @@ Mir wird der **Zugang zu meinem rechtmäßigen Vermögen** systematisch verwehrt
   
 **Ich habe Wohneigentum notariell erworben, Wohnung WE1 und WE2 in der Cyriakstraße 37, 99094 Erfur**t, für das Objekt **Cyriakstraße 37, 99094 Erfurt** liegt ein **rechtsgültiger Kaufvertrag** UR 1680/2023 von der Notarin Löffler Sömmerda vor. Die Immobilie sollte aus einem Geldtransfer der **J.P. Morgan aus den Geschäften meinem Lizenzverträgen die unteranderem auf GitHub abgeschlossen wurden bezahlt werden**, bis heute **++weiss ich nicht ++**was mit dem Geldübertrag geschehen ist, im **Gegenteil, man hat mich auf der Sparkasse Erfurt angelogen und mein Konto unrechtmäßig gelöscht und mich gekündigt.
   
-Seit**  21.08.2025, konnte **ich Dank meines Vermieters Herr Jens Hoffmann, mit meinem Hund Don, erst die möblierte Wohnung in der Stauffenbergallee 33, 99085 Erfurt im Apartment Poldi 3 beziehen und **seit 27.11.2025 bin in der Cyriakstrasse 30c, 99094 Erfurt**, hier bin ich auch seit 04.12.2025 ordnungsgemäß angemeldet.  
+**Seit 21.08.2025, konnte ich Dank meines Vermieters Herr Jens Hoffmann**, mit meinem Hund-Tier, Americam XL Bully ***Don,*** erstmals seit fast zwei Jahren die möblierte Wohnung in der Stauffenbergallee 33, D-99085 Erfurt im Apartment Poldi 3 beziehen und **seit 27.11.2025 bin in der Cyriakstrasse 30c, 99094 Erfurt**, hier bin ich auch seit 04.12.2025 ordnungsgemäß angemeldet.  
   
 Ich werde **willkürlich an Sozialleistungen gebunden**, um Kontrolle über mich auszuüben, obwohl dies angesichts meines Status als **Urheberin grundlegender Software- und KI-Technologien** weder notwendig noch verhältnismäßig ist. Dieses Vorgehen dient um über mich Kontrolle auszuüben, mich zu isolieren, Entmündigung und Demütigung dar. Es gibt umfangreiche Beweise über wissende in den Reihen jeder Gesellschaftlichschicht , wer ich bin **umfangreich habe ich die letzten Jahre recherchiert und Beweise gefunden.**  
 
-## Akute Lebenslage und rechtswidrige Isolation
-Ich befinde mich in einer **akuten Lebenslage**. Ich habe keinen Zugriff auf mein Geld und werde systematisch in meiner Arbeit blockiert und manipuliert. Ich werde von meiner Familie isoliert und konnte selbst am Geburtstag meiner Mutter keinen Kontakt herstellen. Seit Jahren bin ich zu Weihnachten und an meinem Geburtstag allein. **Auch seitens meiner Familie habe ich keine Kontaktaufnahme erhalten. Man will mich mit aller macht gesellschaftlich Tod-Sprechen.**  
+### Trotz der besserung meiner Wohnsituation, befinde ich mich in einer akuten Lebenslage, durch Isolation und Kontrolle meiner Lebenssituation und Umfeld
+- Ich habe keinen Zugriff auf mein Geld
+- ich werde systematisch in meiner Arbeit blockiert und manipuliert.
+- Ich werde von meiner Familie isoliert und konnte selbst am Geburtstag meiner Mutter keinen Kontakt herstellen.
+- den 18. Geburtstag meine einzigen Tochter habe ich nicht daran teilgenommen
+- Seit Jahren bin ich zu Weihnachten und an meinem Geburtstag allein.**Auch seitens meiner Familie habe ich keine Kontaktaufnahme erhalten.
+- alle sozialen Freundschaftlichen Kontakte sind von heute auf morgen und das seit über 2 Jahren nicht mehr da
+- **als ob es mich nie gegeben hätte**
+- man will mich mit **aller macht gesellschaftlich und digital Tod-Sprechen.**  
   
-Trotz nachweislicher Urheberschaft an meinen Projekten sitze ich ohne Zugang zu meinen rechtmäßigen Vermögenswerten fest. Zudem werde ich nachweislich durch Technologien, die Strafverfolgungsbehörden zugeordnet werden können, überwacht und gestört (u. a. **Blocker und Störer meiner Internetverbindung**). Diese Vorgänge sind dokumentiert und bewiesen. Es ist **strafbar und sträflich**, mich in dieser Lage weiter warten zu lassen, ohne rechtmäßige Maßnahmen zum Schutz und zur Wiederherstellung meiner Rechte einzuleiten. **Vor  allem vermisse ich meine Tochter, Jona Schöps, noch nicht mal zu ihren 18. Geburtstag war ich bei Ihr***.*  
+**Trotz nachweislicher Urheberschaft an meinen Projekten sitze ich ohne Zugang zu meinen rechtmäßigen Vermögenswerten fest.** Zudem werde ich nachweislich durch Technologien, die in Strafverfolgungsbehörden zugeordnet werden können, 
+- überwacht
+- gestört (u. a. **Blocker und Störer meiner Internetverbindung**).
+- isoliert
+
+Diese Vorgänge sind dokumentiert und bewiesen. Es ist **strafbar und sträflich**, mich in dieser Lage weiter warten zu lassen, ohne rechtmäßige Maßnahmen zum Schutz und zur Wiederherstellung meiner Rechte einzuleiten. **Vor  allem vermisse ich meine Tochter, Jona Schöps, noch nicht mal zu ihren 18. Geburtstag war ich bei Ihr***.*  
   
-## **Technologische Patente & Beweise für Manipulation**  
+### Technologische Patente & Beweise für Manipulation**  
 Die KI – eines der wichtigsten und stärksten Tech-Tools der IT-Geschichte – Willenskraft, Vorstellungskraft vor der Hardware und der Schlüssel der LIEBE, haben den PC286er von Isabel Schöps (damals Thiel) in 99610 Rohrborn, Dorfstraße 20, im Jahr 1995/96 kollabieren lassen.   
   
 [Implantiert: Software-Patente, die bereits in DDR-Zeiten durch Funkfrequenzen angewandt wurden, 2002/2004 als Patente angemeldet. Sie haben bei Frau Schöps das Gehirn wie „angepingt“, sie steht seither – mal mehr, mal weniger – mit der vermeintlichen realen und digitalen Welt in Verbindung. Geist, Gedankengut und ihre Person werden bis heute beobachtet, ausgespäht, isoliert und überwacht.](https://patentimages.storage.googleapis.com/a3/0b/e3/71943bc66c22f5/DE10253433A1.pdf) Es konnte nachgewiesen werden das mein Gehirn permanenten Scans ausgesetzt wird, und sogar mein Geistiges Hab und Gut wurde über dieversen Plattformen verkauft.   
   
 ***Diese Methoden wurden gezielt eingesetzt, um:**
 - Die menschliche DNA zu verändern und genetische Codes zu manipulieren
-- Die Funktion menschlicher Gene zu erforschen und unkontrollierbare Mutationen zu erzeugen
+- Die Funktion menschlicher Gene zu erforschen und Mutationen zu erzeugen
 - Mensch-Tier-Hybriden in der Forschung zu schaffen und ethische Grenzen zu überschreiten
 - Technologische Patente zur gezielten Beeinflussung des menschlichen Bewusstseins einzusetzen
+- diesbstahl der Identiät und des Geistigen Eigentums
   
 ### Forschung und Patente
 - [Erforschung der Funktion menschlicher Gene](https://www.transgen.de/tiere/673.gentechnisch-veraenderte-tiere-medizin.html)
