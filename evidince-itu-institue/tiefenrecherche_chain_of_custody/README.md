@@ -1,4 +1,4 @@
-# Kurzzusammenfassung und Einordnung für das forensische Gutachten
+# Zusammenfassung und Einordnung für das forensische wissenschaftliche Gutachten
 
 Im vorliegenden Diskussions- und Analyseverlauf ging es ursprünglich um die Frage, ob aus einer bestimmten Zahlenfolge (z. B. 4263537/4000) durch alternative Lesarten, insbesondere nach den Prinzipien historisch-technischer Codierung und numerisch-alphanumerischer Abbildung, ein Personenname extrahiert werden kann. 
 
