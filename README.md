@@ -1,15 +1,18 @@
 # Harvard und RFC
-`Alles was in der digitalen Welt, als erstes geschrieben wurde, ist auch das Original. So auch das RFC2026 von der US Harvard University`.
+`Alles was in der digitalen Welt, als erstes geschrieben wurde, ist auch das Original.` [So auch das erste RFC2026 von der US Harvard University](https://www.harvard.edu)
 
-This repository dokumentiert aus October 1996 (Obsoletes: 1602) veraltete Disguss und auch noch offene Depaten unterandrerm von der Network Working Group, `Leitender Forscher Herr S. Bradner von der US Harvard University`.
+***Diese Release Repositoty dokumentiert aus October 1996 (Obsoletes: 1602) veraltete Disguss und auch noch offene Depaten*** unterandrerm von der Network Working Group, `Leitender Forscher Herr S. Bradner von der US Harvard University`.
 
 **Category:** Best Current Practice
 The Internet Standards Process
 - es dokumentiert die ersten Forschungen, Debatten und sucht nach Rat, Hilfe
-- ***für eine Technologie, die an 14. April 1996 erstmals protokolliert*** wurde
-- Automatische Handlungen ohne das es von Mensch über die Tastur eingetippt wurde, mechanism ausübt, die für das Netzwerk ein Rätsel ist
-- **die Automation, kehrt immer wieder zum Ursprung, Creator, zum Auslöser dieser Automation zurück** -> **zurück nach D-99610 Rohrborn, Germany, Thueringa, Dorfstrasse 20**+
-- die Automation **Entwickelt sich - KI AI Intelligence*** wird definiert
+- `für eine Technologie, die an 14. April 1996 erstmals protokolliert` wurde
+- `Automatische Handlungen ohne das es von Mensch über die Tastur eingetippt wurde,
+- `ein mechanismus ausgeführt ohne menschlische Auffordrung bzw ausüben an der Hardware`,
+- `dies gab dem Netzwerk ein unerklärliches Rätsel`
+- `die Automations Prozesse, kehrt immer wieder zum Ursprung, zum Auslöser dieser Automation zurück`
+- `zurück nach D-99610 Rohrborn, Germany, Thueringa, Dorfstrasse 20`
+- die Automation `Entwickelt sich - KI AI Intelligence wird definiert`
 - **zudem werden Eigentumsrechte und Urheberrechtsprobleme im Zusammenhang mit den Standards, diskutiert**
 
 ## Original Auszug aus dem RFC2026
@@ -24,8 +27,8 @@ process.
 
 >#### Working Group - A group chartered by the IESG and IAB to work on a specific specification, set of specifications or topic.
 >### AUTHOR'S ADDRESS
-Scott 0. Bradner
-Harvard University
+[Scott 0. Bradner
+Harvard University](https://www.harvard.edu)
 Holyoke Center, Room 813
 1350 Mass. Ave. Cambridge, MA 02138
 USA Phone: +1 617 495 3864
@@ -47,17 +50,16 @@ Folgendes RFC möchte ich nicht weiter eingehen aufgrund meiner Kenntnisse und m
 - `was eine absolut unlogische ist und auf eine hochkriminelle Täterstruktur hinweist`
 - das ***[RFC 882](https://www.rfc-editor.org/rfc/rfc882)**
 - `ist ein Protokoll, was für mich ein 99,9% Indiz bzw. Beleg ist, welches für eine bereits menschliche physisch erlebt Epoche hinweisst`
-- dies Menschen diese auch erlebt haben. Und aufgrund dieser Erfahrung, vielleicht gab es ja schon zwei, dreimal diese Epoche, kann man diese RFC-Protokolle manipulieren bzw. kann man die anders schreiben.
-
-Hier möchte ich einfach nur die Scheintodgeschäfte, das Geschäft mit den verkauften Identitäten, das Geschäft mit den Toten explizit erwähnen und möchte dieses auf jeden Fall dieses Protokoll als Evidence einstufen und in die Chain of Custody.
+- dies Menschen diese auch erlebt haben. Und aufgrund dieser Erfahrung, vielleicht gab es ja schon zwei, dreimal diese Epoche gelebt haben und auf diese durch Algorithmen, durch RFC-Protokolle manipulieren konnten
+- und kontrolliert werden kann, alles von vorn bis hinten, bis zum abknickenden Ast manupulier, steuer und kontrollierbar.
+- weltweit kein regionsles Phänonmen ein weltweites Verbrechen
 
 # Frame String - Chain of Custody
 ***Metadaten Auslesen, forensiche Rückverfolgung, Evidence***
 https://www.rfc-editor.org/rfc/rfc882
-
--> F.ISI.ARPA     
--> LINKABIT-DCN5.ARPA
--> UCL-TAC.ARPA
+- F.ISI.ARPA
+- LINKABIT-DCN5.ARPA
+- UCL-TAC.ARPA
 
 <img width="642" height="1389" alt="IMG_9891" src="https://github.com/user-attachments/assets/103ed8d6-1ab6-4619-8e73-e4e9bc7fcb9f" />
 
@@ -144,7 +146,27 @@ Aufgrund anhaltender Manipulation, Isolation und schwerwiegenden Menschrechtsver
 - Dieses wird erst veröffentlicht, und zwar über die Zenodo-Datenbank
 - Dieses Anlyse ist urheberrechtlich geschützt und hat
 - diese Analyse hat volle rechtliche Tragweite und
-- und ist 100% Teil der Chain of Custody.``
+- und ist 100% Teil der Chain of Custody.`
+-
+
+### in diesem Kontex müssen umbedindgt folgende Verbrechen herangezogen werden
+- Scheintodgeschäfte,
+- das Geschäft mit den verkauften Identitäten,
+- das Geschäft mit dem Toten
+- das spiel mit unsterblichen Seelen
+- das spiel mit der Macht und den Naturgesetzen
+- das unberechenbare Spiel, mit dem Leben und all den Konsequenzen
+  
+`Das Kommende ist nicht aufzuhalten und es wird das Schicksal unser` **aller werden**
+- `wo das Ende noch nicht geschrieben wurde und keiner kennt, so wie es im Leben ist`
+- `alles kann passieren, was wir daraus machen, wird das Vermächtnis jeden einzelenen werden`
+- `hier gibt es am ende keine Community oder Netzwerk mehr` - ganz logisch.
+- schon vor Millionen von Jahren, ist der Fortbestand durch Familien-Bündnisse gesichert
+- eine Familie kann Glück teilen oder Trost spenden
+- `aber am Ende ist es unsere Seele, jeden seine eigne` ob und wie stark dieses Fundament ist.
+- `ist der Geist, die Seele, die psyschiche zu schwach, bricht der stärkste Familienbund ausseinandr`
+
+- erwähnen und möchte dieses auf jeden Fall dieses Protokoll als Evidence einstufen und in die Chain of Custody.
 
 ## Archiv Notes
 **Bad Statement**
