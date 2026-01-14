@@ -1,6 +1,6 @@
 # Open Source at Harvard
 
-
+### Important: [***please read RFC***](https://raw.githubusercontent.com/isabelschoeps-thiel/harvard.university/refs/heads/main/rfc/rfc-isabelschoepsthiel.htm)
 
 ## Contributing
 
