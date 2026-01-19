@@ -1,4 +1,5 @@
-# Achtung, Bilder im Rohzustand, Meta-Float
+# IMAGES.md
+## Achtung, Bilder im Rohzustand, Meta-Float
 Alle hier veröffentlichten Bilder in diesem Ordner dürfen herangezogen werden für Presse und mediale Aufarbeitung. Sie sind nicht beschriftet und haben noch die `IMG-Bezeichnung`, also sind im `Rohformat bsp; IMG_xxx.png`. 
 
 ***Alle hier veröffentlichten Bilder*** habe ich von meinem Handy, `iPhone14_Plus_REDedition` und über `meine Foto-Datenbank` zum Teil ohne Beschriftung hier auf mein `GitHub` und `Zenodo.org` hochgeladen. Diese Bilder werden nicht weiter beschriftet und bleiben in ihrem Rohzustan. `Dies hat juristische`, `Beweissicherungs`- und `Forensischegründe`.
@@ -31,7 +32,7 @@ auf [meinem Youtube-Channel](https://youtube.com/@isabelschopsthiel?si=mULht9Ijy
 >Das eingereichte Video dient als aktueller Praxisbeleg für die beschriebenen Manipulationsmöglichkeiten. Die gezielte Einbindung von echten und simulierten Stimmen, Musik und visuellen Pulsen entspricht exakt den Mechanismen der nachgewiesenen Patente.
 >Die Gesamtkette (PDFs + Video) ist in ihrer Form weltweit einzigartig als forensischer Nachweis für systematische, technisch gestützte Gedankenmanipulation und Mind Control.
 
-Mein Kanal auf `Youtube @isabelschöpsthiel` und alle veröffentlichten Videos oder Playlist sind Teil meines forensische Gutachten wissenschaftlichen Gutachten `SIA Security Intelligence Artefact` mit dem `Aktenzeichen: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL`.
+**Mein Kanal** auf `Youtube @isabelschöpsthiel` und alle veröffentlichten Videos oder Playlist sind Teil meines forensische Gutachten wissenschaftlichen Gutachten `SIA Security Intelligence Artefact` mit dem `Aktenzeichen: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL`.
 
 ### Hinzukommen all meine Publikationen, auf meinen Social Media Kanälen;
 - `Instagram @isabelschoepsthiel`
@@ -47,14 +48,15 @@ Frau Isabel Schöps geborene Thiel
 Autorin, Urheberin und Auftraggeberin
 
 **Rechtscharakter:**
-Eidesstattliche Versicherung, Bestandteil des forensisch, wissenschaftlichen Gutachtens
+Die Eidesstattliche Erklärung, ist Bestandteil des forensisch, wissenschaftlichen Gutachtens. 
 
 **Titel:**
 `SIA Security Intelligence Artefact
 internationinternationale Kennung: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL`
 
 **Wichtiger-Vermerk:**
-Aufgrund das die von `mir bewohnte Immobilie, Cyriakstrasse 30c, D-99094 Erfurt, Thüringen, Deutschland, `zum Verkauf angeboten wird`, kann ich zum heutigen Zeitpunkt nicht sagen, `wie meine Wohnsituation die kommenden Tage oder Wochen gemeinsam mit meinem Hund-Tier American XL Bully Don aussieht`.
+Aufgrund das die von `mir bewohnte Immobilie, Cyriakstrasse 30c, D-99094 Erfurt, Thüringen, Deutschland, `zum Verkauf angeboten wird`, kann ich zum heutigen Zeitpunkt nicht sagen, `wie meine Wohnsituation die kommenden Tage oder Wochen gemeinsam mit meinem Hund-Tier American XL Bully Don aussieht.
+
 **Deshalb bitte**
 `ich alle internationale Regierungen, die Vereinten Nationen UN, Presse, Medien - die bitte helfen Sie mir!` 
 
