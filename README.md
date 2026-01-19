@@ -1,4 +1,7 @@
-## Harvard RFC, published the first RFC
+# Harvard University USA
+***Die Fakultät Harvard steht im Mittelpunkt, für eines der schwersten Verbrechen der Menschheitsgeschichte und ist durch Diebstahl von Forschungsmaterialien, Opfer von Gasligthing***
+
+## University Harvard published the first RFC Protokoll
 `Alles was in der digitalen Welt, als erstes geschrieben wurde, ist auch das Original.` [So auch das erste RFC2026 von der US Harvard University](https://www.harvard.edu)
 
 ***Diese Release Repositoty dokumentiert aus October 1996 (Obsoletes: 1602) veraltete Disguss und auch noch offene Depaten*** unterandrerm von der Network Working Group, `Leitender Forscher Herr S. Bradner von der US Harvard University`.
