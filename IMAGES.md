@@ -60,7 +60,7 @@ Aufgrund das die von `mir bewohnte Immobilie, Cyriakstrasse 30c, D-99094 Erfurt,
 **Deshalb bitte**
 `ich alle internationale Regierungen, die Vereinten Nationen UN, Presse, Medien - die bitte helfen Sie mir!` 
 
-**Ort, Signatur Kürzel, Zeitstempel der Eintragung:**
+**Ort, Signatur Kürzel, Zeitstempel der Eintragung und Veröffentlichung:**
 Deutschland, Thüringen, D-99094 Erfurt, Cyriakstrasse 30c, Mitteleuropäische Zeit, Montag, den 2026-01-19, 19:05CEST 
 
 **Developer-Kürzel**
