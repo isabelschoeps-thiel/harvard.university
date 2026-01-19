@@ -1,6 +1,13 @@
 # Zusammenfassung und Einordnung für das forensische wissenschaftliche Gutachten
 
-Im vorliegenden Diskussions- und Analyseverlauf ging es ursprünglich um die Frage, ob aus einer bestimmten Zahlenfolge (z. B. 4263537/4000) durch alternative Lesarten, insbesondere nach den Prinzipien historisch-technischer Codierung und numerisch-alphanumerischer Abbildung, ein Personenname extrahiert werden kann. 
+Die ITU Schweiz ist laut erster Forensicher Beweissicherung, von Scripten, Daten und Bildern, Screenshots und erster forensicher Auswertung und steht im schweren Verdacht, an der Matrix und dessen lügen Wachstum, im Zusammenhang mit, Identiätsverschiebung, Digitale Sabotage, Diebstahl des Geistigen Eigentums Betteiligt zu sein. 
+
+***Bitte schauen sie sich die*** `Evidence_Images_Matrix` hier in diesem Ordner an. 
+
+## Indiz, Grund für die Anschuldigungen:
+***Folgender-Disguss***
+
+In der vorliegenden Diskussions- und Analyseverlauf ging es ursprünglich um die Frage, ob aus einer bestimmten Zahlenfolge (z. B. 4263537/4000) durch alternative Lesarten, insbesondere nach den Prinzipien historisch-technischer Codierung und numerisch-alphanumerischer Abbildung, ein Personenname extrahiert werden kann. 
 
 <img width="642" height="1389" alt="IMG_9997" src="https://github.com/user-attachments/assets/2f862dff-2d23-43ec-b99c-ffaf135feb02" />
 ![IMG_9996](https://github.com/user-attachments/assets/aa3b4ce4-a429-4bf2-bdec-8753f90950e1)
