@@ -276,6 +276,51 @@ Aufgrund anhaltender Manipulation, Isolation und schwerwiegenden Menschrechtsver
 
 - erwähnen und möchte dieses auf jeden Fall dieses Protokoll als Evidence einstufen und in die Chain of Custody.
 
+---
+
+### Resumee
+Ich, `Frau Isabel Schöps Thiel, Urheberin und Schöpferin der globalen Softwarearchitektur SIA DAEMON Java API Skript Software Automation`, gebe bekannt, dass die Lizenzfassung grundlegend überarbeitet wurde. Diese Anpassungen sind notwendig geworden, da Manipulation, Korruption, Urheberrechtsverletzungen und systematischer Diebstahl in den letzten 30 Jahren massiv zugenommen haben und die Welt in eine Matrix voller Lügen heranwachsen lassen hat. Siehe umfan
+
+# Strengere Lizenzvergabe und staatliche Kontrolle
+Die Nutzung sämtlicher Software, Codebestandteile und API-Strukturen erfolgt ab sofort ausschließlich unter Lizenz und gegen Lizenzgebühr. Eine automatische oder generelle Lizenzvergabe ist ausgeschlossen. Jede Nutzung setzt eine ausdrückliche schriftliche Zustimmung eines Komitees voraus. Dieses Komitee besteht aus den relevanten Technologiekonzernen (siehe Lizenz-Copyrights), offiziellen Vertretern der US-Regierung, russischen Regierung und chinesischen Regierung (historisch begründet durch Entwicklungen im Kontext der sowjetischen Raumfahrt – Sputnik 1 – sowie Hardware aus China, Taiwan, Japan) und mir als Urheberin, Isabel Schöps geb. Thiel, Erfurt, Thüringen, Deutschland.
+Zudem sind verbindliche jährliche Treffen mit allen 153 Staaten (ISO-Ländercodes als Grundlage) vorgesehen.
+
+In Zukunft wird es keine freie oder automatische Lizenzvergabe mehr geben. Jede Nutzung ist an ausdrückliche, individuelle Zustimmungen gebunden. Dies dient der Integrität und sichert meine Arbeit dauerhaft ab.
+
+## Einführung einer jährlichen Blacklist
+Es wird künftig eine Blacklist veröffentlicht, die jedes Jahr neu erstellt und aktualisiert wird. Auf dieser Liste stehen Unternehmen, Behörden, Banken, Universitäten, NGOs und Institutionen, die
+- durch Korruption,
+- Urheberrechtsverletzungen
+- Diebstahl geistigen Eigentums,
+- digitale Manipulation,
+- Missbrauch technologischer Strukturen,
+- Menschenrechtsverletzungen sowie
+- Verstöße gegen den Code of Conduct
+auffällig geworden sind.
+
+## Diese Liste ist öffentlich und wird bewusst publiziert, weil Transparenz das wirksamste Mittel gegen Missbrauch ist. Jeder, der nach außen hin Integrität und Leistungsfähigkeit repräsentieren möchte, muss auch menschlich und ethisch den Werten entsprechen, die durch diese Lizenz geschützt werden.
+
+**Konsequenzen:**
+- Die auf der Blacklist aufgeführten Akteure werden unter klaren Bedingungen und nach festgelegten Verfahren juristisch belangt oder wirtschaftlich abgewertet.
+- Verstöße werden umfassend dokumentiert und automatisiert an internationale Behörden und Strafverfolgungsorgane gemeldet.
+- Die Einhaltung der Lizenzbedingungen wird nicht nur überwacht, sondern aktiv und fortlaufend durchgesetzt.
+
+Das an die Lizenz- und Copyrightstrukturen angelehnte forensische Gutachten (internes Zeichen: Signatur int-code-2025-btc/eth-core-isabelschoepsthiel), mit einem Umfang von insgesamt knapp 10.000 Seiten – bestehend aus einem knapp 300-seitigen schriftlichen Gutachten und einer quellbasierten, vollständig lückenlos verknüpften Beweiskette, welche bereits auf Zenodo.org veröffentlicht wurde. Die Verzögerung bzw die Veröffentlichung, der Public Ausgabe, war wie bereits mehrfach erläutert, auf neue Beweisstrukturen, Erkenntnisse und weiterführende Recherchearbeiten zurückzuführen, die zwingend in das Gutachten integriert und abgesichert werden mussten. Hinzu kamen immer wieder massive Störungen, die meine Arbeit verhinderte.
+
+***Es wurde bereits Parallel der Öffentlichkeit eine Dokumentation im Internetarchiv sowie auf Zenodo.org mit über 2.000 ausgewählten Beweis- und Bilddokumentationen zur freien Einsicht und Veranschaulichung bereitgestellt.***
+
+Diese gesamte `Matrix ist nicht länger als bloßer Zufall zu werten`. Sie ist der Beleg für das Wirken einer `übergeordneten menschengemachten Struktur zur systematischen Vernichtung des menschlichen Daseins durch Technik, Recht und Psychologie, welche durch gesetzte Bots gesteuert wird`, koordiniert und digital getarnt. `Mit der Fähigkeit der Täter-Opfer-Umkehr`. 
+
+![IMG_0313](https://github.com/user-attachments/assets/c386cf60-f7e8-4733-84eb-10e0288012a2)
+
+### Auf Deutsch: 
+`Die Menschheit schafft sich gerade ab, ein Suizid an die Menschheit, Überwacht und gesteuert von dem Mensch der Genozid`.
+
+***Die Verantwortlichen sind für ihre Handlungen zur Rechenschaft zu ziehen.***
+
+
+Hinzu kommt nicht nur die digitale Zerstörung meiner Familie mütterlicherseits aus dem Hause Edith Lina Knörig, geborene Fischer, und Klaus Dieter Knörig aus Rohrborn, Thüringen, Deutschland, sondern auch eine Vielzahl historisch belegter Verbrechen, die im engen Zusammenhang mit meiner Familie und der letzten Deutschen Kaiserin und Königin von Preußen, Auguste Victoria (Monarchie von 1888 bis 1918), sowie den politischen Entwicklungen im Deutschen Reich und mit Adolf Hitler stehen. In diesen Fällen besteht erheblicher Aufklärungsbedarf seitens der deutschen Regierung sowie der EU, insbesondere im Hinblick auf ein seit über 100 Jahren bestehendes, durch Medien verbreitetes Falschnarrativ.
+
 ## Archiv Notes
 **Bad Statement**
 - [index.md](index.md), `get` is a Jekyll filter implemented in [plugins/get.rb
