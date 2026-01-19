@@ -2641,7 +2641,8 @@ OrcID: ++[0009-0003-4235-2231 Isabel Schöps Thiel](https://orcid.org/0009-0003-
 OrcID: ++[0009-0006-8765-3267 SI-IST Isabel Schöps](https://orcid.org/0009-0006-8765-3267/print)++   
 **Aktueller Aufenthaltsort:** Cyriakstrasse 30c, D-99094 Erfurt, Thüringen, Deutschland, **gemeinsam mit meinen vierbeinigen Freund, American XL-Bully Don
 
-<img width="642" height="1389" alt="IMG_9686" src="https://github.com/user-attachments/assets/755117b2-d1a4-420a-bff7-0314374f4a81" />
+![IMG_0296](https://github.com/user-attachments/assets/3cd6977a-5daf-4364-9f16-a5871e647d4e)
+
 
 Datum der **Erstveröffentlichung:** 2004  
 **Würdigung, Danksagung, institutionelle Anerkennung, Präfix_Referenz:** YWP-1-5-IST-SIA
@@ -2695,3 +2696,12 @@ Germanness. 219-247. DOI: 10.3998/mpub.93476
 **[Forensisch wissenschaftliches Gutachten & Forschungsarbeit: Technologie, Software, Historie](https://jpmorganchaseco.gcs-web.com/static-files/15c01cf8-4a5a-4040-880e-af4ba94de7d4)**
 [internationale Kennung:](https://jpmorganchaseco.gcs-web.com/static-files/15c01cf8-4a5a-4040-880e-af4ba94de7d4) [INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL](https://jpmorganchaseco.gcs-web.com/static-files/15c01cf8-4a5a-4040-880e-af4ba94de7d4)  
 [URGENT: Forensic Evidence – Systematic Financial Fraud & IP Theft](https://jpmorganchaseco.gcs-web.com/static-files/15c01cf8-4a5a-4040-880e-af4ba94de7d4)
+
+---
+
+**My Commit-Signatur-Eintragung:** 
+Zeitstempel der Eintragung: Montag den, 2026-01-19, 20:26CEST, Mitteleuropäische, Zeit, 
+**Ort:** Deutschland, Thüringen, D-99094 Erfurt, Cyriakstrasse 30c - Autorin, Urheberin, Frau Isabel Schöps geb. Thiel
+
+***Wichtiger-Vermerk:***
+Aufgrund das die Immobilie Cyriakstrasse 30c, D-99094 Erfurt, Thüringen Deutschland  **in der ich aktuell gerade gemeldet und auch lebe zum Verkauf angeboten wird**, kann ich zum heutigen Zeitpunkt nicht sagen, wie meine Wohnsituation die kommenden Tage oder Wochen gemeinsam mit meinem Hund-Tier American XL Bully Don aussieht. `Deshalb bitte ich alle internationale Regierungen, die Vereinten Nationen UN, Presse, Medien, die bitte helfen Sie mir.`
