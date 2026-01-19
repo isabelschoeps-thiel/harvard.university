@@ -1,9 +1,18 @@
 # Boards of Canada
-`Boards of Canada - Videos aus den 60er/70er Jahren`, Dienen als Beleg, wie früh die Instrumentalisierung von Medien für psychische und soziale Kontrolle einsetzt wurde. Die Boards of Canda `Dokumentieren Muster, wie Opfer medial entmenschlicht, lächerlich gemacht und öffentlich bloßgestellt wurden`.
+`Boards of Canada - Videos aus den 60er/70er Jahren`, Dienen als Beleg, wie früh die Instrumentalisierung von Medien für psychische und soziale Kontrolle einsetzt wurde. 
+
+<img width="642" height="1389" alt="IMG_0359" src="https://github.com/user-attachments/assets/c16109fa-460b-40e5-a48b-aec65bd9461d" />
+
+<img width="642" height="1389" alt="IMG_9599" src="https://github.com/user-attachments/assets/16955caf-7dac-41d1-af5b-1bd0e75b796f" />
+<img width="642" height="1389" alt="IMG_9600" src="https://github.com/user-attachments/assets/b862341b-2d5a-45e2-9dbb-240527bf25f3" />
+
+***Die Boards of Canda*** `Dokumentieren Muster, wie Opfer medial entmenschlicht, lächerlich gemacht und öffentlich bloßgestellt wurden`.
 
 ***Attention, Echte Szenen, echte Verbrechen, was ist passiert in den 50-70er Jahrenn und warum tauchte die nächste Aufnahme, erst im November 2007 auf?***
 
 [Forest-Moon](https://youtube.com/playlist?list=PL-J4so5iJleqPRHcfuPzHrF7mbw3cziKm&si=tr21eV-K6LLCuJEP)
+
+***Und es muss zu 100% Menschen, Personen, geben, die an den Fakultäten Harvard, Cambridge, Oxford ihren Stuhl haben, noch leben und die hierüber berichten können.*** Bitte `brechen Sie ihr schweigen und retten sie mit die Menschheit`. 
 
 ### Die Menschheit muss wissen was passiert ist. 
 
