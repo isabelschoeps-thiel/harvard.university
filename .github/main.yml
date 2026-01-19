@@ -1,0 +1,6 @@
+name: Build and deploy
+on:
+  push:
+    branches: develop
+jobs:
+  chain_of_custody_evidence_itu_schweiz
