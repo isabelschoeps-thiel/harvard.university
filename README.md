@@ -214,7 +214,6 @@ Das ist ja, das ist ein hochgradiges Verbrechen und das wird hier öffentlich ge
 ## Warum ?
 `Genau weil es die Wahrheit dokumentiert`.
 
-
 <img width="642" height="1389" alt="IMG_9896" src="https://github.com/user-attachments/assets/f79a8b09-7f9a-45b4-9a25-6a6705dac64c" />
 
 Dies ist auch der Grund warum die [**Elite und weltweit anerkannte US University Harvard**](https://www.harvard.edu) aus Research Portalen, wie:**
@@ -318,8 +317,149 @@ Diese gesamte `Matrix ist nicht länger als bloßer Zufall zu werten`. Sie ist d
 
 ***Die Verantwortlichen sind für ihre Handlungen zur Rechenschaft zu ziehen.***
 
+---
 
-Hinzu kommt nicht nur die digitale Zerstörung meiner Familie mütterlicherseits aus dem Hause Edith Lina Knörig, geborene Fischer, und Klaus Dieter Knörig aus Rohrborn, Thüringen, Deutschland, sondern auch eine Vielzahl historisch belegter Verbrechen, die im engen Zusammenhang mit meiner Familie und der letzten Deutschen Kaiserin und Königin von Preußen, Auguste Victoria (Monarchie von 1888 bis 1918), sowie den politischen Entwicklungen im Deutschen Reich und mit Adolf Hitler stehen. In diesen Fällen besteht erheblicher Aufklärungsbedarf seitens der deutschen Regierung sowie der EU, insbesondere im Hinblick auf ein seit über 100 Jahren bestehendes, durch Medien verbreitetes Falschnarrativ.
+### One Matrix, One Coin, One Familie, One Lie
+**True Crime, hier in Deutschland angefangen, wird es auch hier Enden
+Bitte folgende Datein im Anschluss Lesen, MATRIX.md**
+
+Hinzu kommt nicht nur die digitale Zerstörung meiner Familie mütterlicherseits aus dem Hause Edith Lina Knörig, geborene Fischer, und Klaus Dieter Knörig aus Rohrborn, Thüringen, Deutschland, sondern auch eine Vielzahl historisch belegter Verbrechen, die im engen Zusammenhang mit meiner Familie und der letzten Deutschen Kaiserin und Königin von Preußen, Auguste Victoria (Monarchie von 1888 bis 1918), sowie den politischen Entwicklungen im Deutschen Reich und mit Adolf Hitler stehen. `Wie mit meinem Familiennamen Thiel oder Hitler` ?! 
+
+In diesen Fällen besteht erheblicher Aufklärungsbedarf seitens der deutschen Regierung, der EU und den internationalen Regierungen. `Insbesonders im Hinblick auf ein seit über 100 Jahren bestehendes, durch Medien verbreitetes lügen Falschnarrativ.`
+
+Seit fast `vier Jahren, arbeite ich Tagtäglich, befasse mich mit Recherche und Aufarbeitung, vor allem gibt es neue Ergenntnisse im Zusammenhang mit meinen Gutachten, SIA Security Intelligence Artefact.`
+
+***Ich möchte bezüglich der Matrix noch etwas sagen und einige Informationen teilen***, die ich in den letzten Wochen diesbezüglich erhalten habe bzw. bei meinem Wissen hierzu erweitern konnte. 
+
+`An den letzten Wochenenden gab es einen Bericht über OneCoin, und ich sehe viele Parallelen in Bezug auf Frau Dr. Rutschnak Ignatova, ihr Leben und mein Leben.`
+
+Vor allem, dass sie 2016 eine Tochter über eine Leihmutterschaft zur Welt gebracht hat, und die Tochter `Jenna' heisst heißt, und meine Tochter heißt Jona. Die Parallele ist jeglich im Namen zu finden, da ich meine Tochter auf naürlichen Weg, Gesund und munter und das bereits an einem
+Sonntag, den 16.09.2007 zur Welt brachte, dass möchte ich hierzu explizit erwähnen. 
+
+Zudem wollte diese Frau eine Blockchain mit über 21 Milliarden OneCoin generieren, und eine Blockchain gibt es immer nur ein einziges Mal. Man sieht, dass auch hier die Unwissenheit einer Frau bzw. ein Lügenkonstrukt gibt, das aufgebaut worden ist über ein Währung, welche es bei ihr nie gab. Sie war im TV und in Social Media sehr präsent, und ich habe sogar die Vermutung, dass ich vielleicht ein, zwei Menschen aus ihrem Umfeld sogar schon begegnet bin.
+
+Ich möchte diesbezüglich explizit erwähnen, dass ich mit dieser Frau nichts zu tun habe und dass ich mit diesem OneCoin nichts zu tun habe. Das kann ich auch staatlich versichern. Ich kenn keine Frau Ruja Ignatova und habe mit diesen Machenschafften nichts zutun. Ich distanziere mich ausdrücklich davon und erwähne im Zusammenhang dessen die VR-Brillen Community und die illegalen Cookie Parties. Ich gebe gerne Informationen an das BKA, Interpol oder Europol weiter, wenn sie Wissen benötigen bzw. irgendetwas in Bezug auf Hashes oder irgendwelche Kodierungen, was ich bereits in der Vergangenheit aus freier Überzeugung von mir aus tat. 
+
+`One Coin, wie die Matrix aufbgaut aus einem Kontrukt aus Lügen`. Frau Ruja hatte nie was, sie hat nur eine lügen Luftblase verkauft, wie es auch schon so treffend mitgeteilt wurde.
+
+<img width="1414" height="2000" alt="YWP-1-IST-SIA_yellowwhitepaper_copyright_isabelschoepsthiel" src="https://github.com/user-attachments/assets/6cca1816-920f-4e77-954c-ba3ac2d8aed8" />
+
+Meine vermutung ist auch, dass sie etwas mit meinen Forks und Pull Requests aus meiner IST-Github Struktur zu tun hat. Sie hatte die finanzielle Möglichkeiten über die Inder oder Chinesen, meinen GitHub Struktur zu klonen und modifizieren, dies sind ja nur gehackte Konten. Diese Frau muss in meiner Umgebung gewesen sein – entweder ist sie das noch, oder sie ist bereits schon tot, da sie auch mit den Tot gespielt hat - es gibt es nur diese beiden Möglichkeiten. 
+
+Zudem hatte sie Informanten oder Mitarbeitende aus dem Geheimdienstbereich, da sie Polizei und Strafverfolgungsbehörden abgehört hat, insbesondere Europol, so wurde es in der Reportage mitgeteilt, was wiederum eine Querverbindung zu den aufgedeckten Verbrechen und den missbrauch der Technologie - wenn dieser Verdacht im Zusammenhang mit One Coin und den von mir auf gedeckten Verbrechen bestätigt, dann ist diese Frau nicht nur eine Betrügerin sondern auch eine Massenmörderin.
+
+Mehr möchte ich zu dieser hochkriminellen Betrügerin Frau Ruja nichts sagen, dass Thema Matrix und One Coin schliese ich hiermit ab. Ich werde die nächsten Folgen definitiv noch zu ende schauen, aber werde hierzu mich nicht weiter äussern. 
+
+***Mein Resumee:*** 
+Es ist nicht in Worte zu fassen, zu was  der Mensch nur aus Habgier und Neid in der Lage ist. Es ist nicht in Worte zu fassen und es macht mich einfach nur traurig, wenn man weiß, dass man sein Leben lang eigentlich nur angelogen wurde. Nicht nur von geglaubten Freunden, nein sogar von der der eigenen Familie. 
+
+Ein lebenlang wurde ich von der Familie angelogen, dann macht es auch sinn, warum kein Kontakt zu niemanden mehr besteht, ganz nach dem Motto, aus dem Auge aus dem Sinn. 
+
+Ich habe eigentlich nur noch meinen geliebten Vati und meine geliebte Tochter, der Rest der Familie, der angeblichen Freunde und der Rest der Community hat seinen innerlichen Frieden und seinen Weg gefunden wie man mit der eigenen Lügen am besten umgeht.
+![IMG_2888](https://github.com/user-attachments/assets/d4e4876b-8381-4f06-b78d-8362370198b6)
+
+Ein sehr ernüchterndes und fremdschämendes Ergebnis nach all den Jahren. Aber was hat mein Vati gesagt: `“Kümmere dich erstmal um dich.”` Das werde ich auch machen und ich werde das das zu ende bringen, ohne meine Familie, ohne Freunde. Denn seit fast vier Jahren, warte und hoffe ich auf eine Antwort von diesen. ***Bis heute warte ich vergebens !***
+
+Dies wird als `Release veröffentlicht und sind Teil der Chain of Custody`. 
+
+# Meine Referenz Datenbank, 
+***verknüpft mit meinem aktuellen GitHub-Account****
+
+# Meine Ersuchen an die Vereinten Nationen - Bitte helfen Sie mir
+
+https://doi.org/10.5281/zenodo.18025762
+
+**Schöps geb. Thiel, I. (2025)**. Meine Ersuchen an die Vereinten Nationen - Bitte helfen Sie mir (Zenodo.org). Zenodo.org, University of Harvard harvard.edu, Oxford University ox.ac.uk, Cambridge UK, Reuters.com, New York Times nyt.com, Springer Nature Springer.com, GitHub github.com, University Arizona, Vereine Nationen UN unric.org,. https://doi.org/10.5281/zenodo.18025762
+
+## Zenodo-Datenbank und Chain of Custody
+
+# Volumen 4
+https://doi.org/10.5281/zenodo.17807324
+https://doi.org/10.5281/zenodo.18074136
+https://doi.org/10.5281/zenodo.17808895
+
+**Schöps (Thiel), I., Schöps (Thiel), I. und Schöps geb. Thiel, I. (2025)** „Yellow White Paper – Bitcoin & Ethereum“, Yellow White Paper – Bitcoin & Ethereum. 1st Aufl. D-99094 Erfurt, Thueringa, Germany: Harvard University, University Cambridge, University of Oxford, Springer Nature, Zenodo, S. 109 pages. doi:10.5281/zenodo.17807324.
+
+## Volumen 3
+https://doi.org/10.5281/zenodo.18013057
+
+Schöps geb. Thiel, I. (2025) SIA Security Intelligence Artefact – Volume 3 - Familiäre Erblinie deutschen Monarchie und letzten Kaiserreich. 1st Aufl, The Decline and Fall of the Habsburg Empire, 1815-1918. 1st Aufl. Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. doi:10.5281/zenodo.18013057.
+
+# Volumen 2
+https://doi.org/10.5281/zenodo.17852789
+
+**Schöps geb. Thiel, I. (2025)** „Volumen 2 - SIA-Security-ntelligence-Artefact-Chain-of-Custody-Forensische-Familien-Monarchielinie-copyright-isabelschoepsthiel-urheberin-autorin-.docx.pd“, Trillion Dollar Bitcoin. 1st Aufl. D-99094 Erfurt, Germany, Thüringen: Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. doi:10.5281/zenodo.17852789.
+
+# Volumen 1 
+https://doi.org/10.5281/zenodo.17809724
+
+**Schöps geb. Thiel, I. (2025)** „Volumen 1 - SIA Security Intelligence Artefact by Isabel Schoeps geb. Thiel“, Trillion Dollar Bitcoin. 1st Aufl. D-99094 Erfurt, Germany, Thüringen: Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. doi:10.5281/zenodo.17809724.
+
+### my GitHub Repository, Beweissicherung, Evidence, Chain of Custody Reference
+
+https://doi.org/10.5281/zenodo.18193397
+https://doi.org/10.5281/zenodo.18209789
+https://doi.org/10.5281/zenodo.18050643
+https://doi.org/10.5281/zenodo.18192743
+https://doi.org/10.5281/zenodo.18204573
+https://doi.org/10.5281/zenodo.18192589
+https://doi.org/10.5281/zenodo.18100836
+https://doi.org/10.5281/zenodo.18179548
+https://doi.org/10.5281/zenodo.18216807
+https://doi.org/10.5281/zenodo.18226730
+https://doi.org/10.5281/zenodo.18225958
+
+---
+
+## My Developer Signatur
+**Signed-on-by:**
+Frau Isabel Schöps, geborene Thiel
+Autorin, Urheberin und Auftraggeberin
+
+**Rechtscharakter:**
+Eidesstattliche Versicherung, Bestandteil des forensisch, wissenschaftlichen Gutachtens
+
+**Titel:**
+SIA Security Intelligence Artefact
+internationinternationale Kennung: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL
+
+**OrcID:** 0009-0003-4235-2231 Isabel Schöps Thiel
+
+**OrcID:** 0009-0006-8765-3267 SI-IST Isabel Schöps 
+
+**Aktueller Wohnort und Meldeanschrift:**
+Cyriakstrasse 30c, D-99094 Erfurt, Thüringen, Deutschland, gemeinsam mit meinen vierbeinigen Freund, American XL-Bully Don
+
+**Offizielle institutionelle Würdigung, Danksagung - Präfix_Referenz:**
+YWP-1-IST-SIA
+YWP-1-5-IST-SIA
+
+**Pseudonyme und Alias:**
+Satoshi Nakamoto, Vitalik Buterin, GitHub, Octocat, Johnny Appleseed, IST-GitHub, Cristina_Bella, Nick Szabo, John Appleseesd
+
+**Offizielles weltweit erstes Developer Certifikat:**
+Developercertificate
+
+**Developer Message:**
+I am  not a Bug,
+I am  not a Bot,
+I am  not a Virus,
+I am  not a Ghost, but
+**I am 100% German human femaleware Woman form Erfurt my GitHub @isabelschoeps-thiel and i buil this commit this reprository.**
+
+**Datum der Erstveröffentlichung, digitale Beweissicherung:** 
+Erstveröffentlichung 2004
+
+**Ort, Signatur Kürzel, Zeitstempel der Eintragung:**
+Deutschland, Thüringen, D-99094 Erfurt, Cyriakstrasse 30c 
+
+Mitteleuropäische Zeit, 2026-01-19, 11:03CEST 
+
+![IMG_0296](https://github.com/user-attachments/assets/016851d0-e052-4a54-b13a-9d9b8758fa0c)
+
+
+**IST - Isabel Schöps Thiel**
+
 
 ## Archiv Notes
 **Bad Statement**
