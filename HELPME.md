@@ -1,4 +1,4 @@
-# Please help me, i miss my Daughter parent 
+## Please help me, i miss my Daughter and my parent 
 https://doi.org/10.5281/zenodo.18192589
 
 **Dieses HELPME.md soll die Öffentlichkeit erreichen und meine Not zum Ausdruck bringen.** Dies werde ich im **jedem Repository veröffentlichen und gilt als offizeller globaler Hilferuf meinerseits,** Ich Frau Isabel Schöps geb. Thiel, werde diese HELPME.md in allen Commits mit erwähnen !
