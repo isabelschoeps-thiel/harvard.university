@@ -1,6 +1,12 @@
 # Harvard University USA
 ***die Fakultät Harvard, Cambridge, University of Oxford und auch CERN steht im Mittelpunkt, für das grössten Verbrechen, der Menschheitsgeschichte. Durch Diebstahl von Forschungsmaterialien, durch Täter-Opfer-Umkehr auch Gasligthing genannt, möchte ich in diesem Repository zeigen wer die wahren Verbrecher sind.***
 
+**Isabel Schöps geb. Thiel, . 0009 .-. 0003 .-. 4235 .-. 2231 ., & Schöps geb. Thiel, I. (2026)**. Harvard Release and Research Funding 1.0 (Research_Funding_1.0). Zenodo. https://doi.org/10.5281/zenodo.18308281
+
+**Isabel Schöps geb. Thiel, . 0009 .-. 0003 .-. 4235 .-. 2231 . und Schöps geb. Thiel, I. (2026)** „Harvard Release and Research Funding 1.0“. Zenodo. doi:10.5281/zenodo.18308281.
+
+---
+
 ## University Harvard published the first RFC Protokoll
 `Alles was in der digitalen Welt, als erstes geschrieben wurde, ist auch das Original.` [So auch das erste RFC2026 von der US Harvard University](https://www.harvard.edu)
 
