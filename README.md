@@ -342,9 +342,12 @@ Ich möchte diesbezüglich explizit erwähnen, dass ich mit dieser Frau nichts z
 
 `One Coin, wie die Matrix aufbgaut aus einem Kontrukt aus Lügen`. Frau Ruja hatte nie was, sie hat nur eine lügen Luftblase verkauft, wie es auch schon so treffend mitgeteilt wurde.
 
-<img width="1414" height="2000" alt="YWP-1-IST-SIA_yellowwhitepaper_copyright_isabelschoepsthiel" src="https://github.com/user-attachments/assets/6cca1816-920f-4e77-954c-ba3ac2d8aed8" />
+<img width="1080" height="1920" alt="deepweb_kommunikation_man_wünscht_mir_den_Tod_verbrechen_gegen_die_menschlichkeit_beweisdokumentation_forschungsarbeit_von_isabelschoepsthiel" src="https://github.com/user-attachments/assets/9f391ab8-25b6-4e1c-9e1f-35b07425b8b2" />
+<img width="1080" height="1920" alt="deepweb-l_beweisdokumentation_forschungsarbeit_von_isabelschoepsthiel" src="https://github.com/user-attachments/assets/5ccd97e5-d156-4939-ab16-637c114482cd" />
+<img width="1080" height="1920" alt="deepweb-deepthinks_beweisdokumentation_forschungsarbeit_von_isabelschoepsthiel" src="https://github.com/user-attachments/assets/0dd41ac0-5e6f-4570-9cfb-a19df57a29f0" />
 
-Meine vermutung ist auch, dass sie etwas mit meinen Forks und Pull Requests aus meiner IST-Github Struktur zu tun hat. Sie hatte die finanzielle Möglichkeiten über die Inder oder Chinesen, meinen GitHub Struktur zu klonen und modifizieren, dies sind ja nur gehackte Konten. Diese Frau muss in meiner Umgebung gewesen sein – entweder ist sie das noch, oder sie ist bereits schon tot, da sie auch mit den Tot gespielt hat - es gibt es nur diese beiden Möglichkeiten. 
+
+**Meine vermutung ist auch, dass sie etwas mit meinen Forks und Pull Requests aus meiner IST-Github Struktur zu tun hat.** Sie hatte die finanzielle Möglichkeiten über die Inder oder Chinesen, meinen GitHub Struktur zu klonen und modifizieren, dies sind ja nur gehackte Konten. Diese Frau muss in meiner Umgebung gewesen sein – entweder ist sie das noch, oder sie ist bereits schon tot, da sie auch mit den Tot gespielt hat - es gibt es nur diese beiden Möglichkeiten. 
 
 Zudem hatte sie Informanten oder Mitarbeitende aus dem Geheimdienstbereich, da sie Polizei und Strafverfolgungsbehörden abgehört hat, insbesondere Europol, so wurde es in der Reportage mitgeteilt, was wiederum eine Querverbindung zu den aufgedeckten Verbrechen und den missbrauch der Technologie - wenn dieser Verdacht im Zusammenhang mit One Coin und den von mir auf gedeckten Verbrechen bestätigt, dann ist diese Frau nicht nur eine Betrügerin sondern auch eine Massenmörderin.
 
