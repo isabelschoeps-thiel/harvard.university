@@ -1,0 +1,14 @@
+cff-version: 1.0.0
+message: Research_Funding_1.0  Harvard Release and Research Funding 1.0
+authors:
+- family-names: SCHOEPS GEB. THIEL
+  given-names: ISABEL
+  orcid: https://orcid.org/0009-0003-4235-2231
+- family-names: Schöps geborene Thiel
+  given-names: Isabel
+  orcid: https://orcid.org/0009-0006-8765-3267
+title: harvard.university
+version: 1.0.0
+doi: 10.5281/zenodo.18308281
+date-released: 2026-01-20
+url: "https://github.com/isabelschoeps-thiel/harvard.university"
